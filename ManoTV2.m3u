@@ -89,7 +89,7 @@ http://iptvlive.stream:80/p/838786/c/6/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m
 http://iptvlive.stream:80/p/838786/c/2/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="LRT Plius HD" tvg-id="lrt-kultura" group-title="Lietuviška TV HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Plius%20HD.png",LRT Plius HD
 http://iptvlive.stream:80/p/753744/c/75/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="TV3 HD" tvg-id="tv3-lt" group-title="Lietuviška TV HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%20HD.png",TV3 HD
+#EXTINF:-1 tvg-name="TV3 HD" tvg-id="tv3-lt" group-title="Lietuviška TV HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3.png",TV3 HD
 http://88.119.220.3/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD-mp4a_96000_lit=9-avc1_5500000=13.m3u8
 #EXTINF:-1 tvg-name="LNK HD" tvg-id="lnk" group-title="Lietuviška TV HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LNK%20HD.png",LNK HD
 http://iptvlive.stream:80/p/838786/c/5/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
@@ -107,7 +107,7 @@ http://iptvlive.stream:80/p/838786/c/14/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.
 http://iptvlive.stream:80/p/753744/c/17/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="Init TV HD" tvg-id="init-tv" group-title="Lietuviška TV HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Init%20TV.png",Init TV HD
 http://iptvlive.stream:80/p/637638/c/31/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="TV3 Film" tvg-id="tv1000-premium-lt" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV1000%20Premium.png",TV3 Film
+#EXTINF:-1 tvg-name="TV3 Film" tvg-id="tv1000-premium-lt" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%20Film.png",TV3 Film
 http://88.119.220.3/live/eds/TV1000PremiumSD/HLS_encr/TV1000PremiumSD-mp4a_96000_lit=1-avc1_2200000=16.m3u8
 #EXTINF:-1 tvg-name="Balticum Auksinis" tvg-id="balt-auks" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Balticum%20Auksinis.png",Balticum Auksinis
 http://iptvlive.stream:80/p/784722/c/51/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
@@ -181,7 +181,7 @@ http://iptvlive.stream:80/p/838786/c/71/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.
 http://iptvlive.stream:80/p/792189/c/67/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 #EXTINF:-1 tvg-name="Родное кино" tvg-id="rodnoe-kino" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%A0%D0%9E%D0%94%D0%9D%D0%9E%D0%95%20%D0%9A%D0%98%D0%9D%D0%9E.png",Родное кино
 http://iptvlive.stream:80/p/811891/c/100/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="TV3 Film HD" tvg-id="tv1000-premium" group-title="Filmai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV1000%20Premium.png",TV3 Film HD
+#EXTINF:-1 tvg-name="TV3 Film HD" tvg-id="tv1000-premium" group-title="Filmai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%20Film.png",TV3 Film HD
 http://iptvlive.stream:80/p/641003/c/19/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="TV 1000 HD" tvg-id="tv1000" group-title="Filmai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV%201000.png",TV 1000 HD
 http://iptvlive.stream:80/p/736229/c/8/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
@@ -343,7 +343,7 @@ http://cdn9.tvplayhome.lt/live/eds/LRT/HLS_encr/LRT-mp4a_96000_lit=1-avc1_220000
 http://cdn9.tvplayhome.lt/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania-mp4a_96000=1-avc1_2200000=8.m3u8
 #EXTINF:-1 tvg-name="TV3" tvg-id="tv3-lt" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3.png",TV3
 https://cdn9.tvplayhome.lt/live/eds/TV3_LT_SD/HLS_encr/TV3_LT_SD-mp4a_96000_lit=9-avc1_2200000=13.m3u8
-#EXTINF:-1 tvg-name="TV3 HD" tvg-id="tv3-lt" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%20HD.png",TV3 HD
+#EXTINF:-1 tvg-name="TV3 HD" tvg-id="tv3-lt" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3.png",TV3 HD
 http://cdn9.tvplayhome.lt/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD-mp4a_96000_lit=9-avc1_5500000=13.m3u8
 #EXTINF:-1 tvg-name="LNK" tvg-id="lnk" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LNK.png",LNK
 https://cdn9.tvplayhome.lt/live/eds/LNK/HLS_encr/LNK-mp4a_96000_lit=24-avc1_2200000=25.m3u8
@@ -353,7 +353,7 @@ http://cdn9.tvplayhome.lt/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD-mp4a_96000_lit=1
 https://cdn9.tvplayhome.lt/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD-mp4a_96000_lit=9-avc1_2200000=13.m3u8
 #EXTINF:-1 tvg-name="TV3+ Latvia" tvg-id="3-plus-latvia" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%2B%20Latvia.png",TV3+ Latvia
 http://cdn9.tvplayhome.lt/live/eds/3plus_LV_SD/HLS_encr/3plus_LV_SD-mp4a_96000_rus=9-avc1_2200000=13.m3u8
-#EXTINF:-1 tvg-name="TV3 Film HD" tvg-id="tv1000-premium" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV1000%20Premium.png",TV3 Film HD
+#EXTINF:-1 tvg-name="TV3 Film HD" tvg-id="tv1000-premium" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%20Film.png",TV3 Film HD
 https://cdn9.tvplayhome.lt/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-mp4a_96000_lit=11-avc1_5000000=10.m3u8
 #EXTINF:-1 tvg-name="TV 1000" tvg-id="tv1000" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV%201000.png",TV 1000
 https://cdn9.tvplayhome.lt/live/eds/TV1000_SD/HLS_encr/TV1000_SD-mp4a_96000_rus=9-avc1_2200000=14.m3u8
@@ -381,9 +381,9 @@ https://cdn9.tvplayhome.lt/live/eds/Sport1/HLS_encr/Sport1-mp4a_96000_lit=8-avc1
 http://cdn9.tvplayhome.lt/live/eds/VH1/HLS_encr/VH1-mp4a_96000_eng=46-avc1_2200000=49.m3u8
 #EXTINF:-1 tvg-name="MTV Hits" tvg-id="mtv-hits" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/MTV%20Hits.png",MTV Hits
 http://cdn9.tvplayhome.lt/live/eds/MTV_Hits/HLS_encr/MTV_Hits-mp4a_96000_eng=20-avc1_2200000=21.m3u8
-#EXTINF:-1 tvg-name="TV3 Sport" tvg-id="TVPlay Sports" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TVplay%20Sports.png",TV3 Sport
+#EXTINF:-1 tvg-name="TV3 Sport" tvg-id="TVPlay Sports" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%20Sport.png",TV3 Sport
 http://iptvlive.stream:80/p/641003/c/62/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="TV3 Sport 2" tvg-id="TVPlay Sports +" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TVplay%20Sports%2B.png",TV3 Sport 2
+#EXTINF:-1 tvg-name="TV3 Sport 2" tvg-id="TVPlay Sports +" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%20Sport%202.png",TV3 Sport 2
 http://iptvlive.stream:80/p/753642/c/73/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="Sport 1" tvg-id="Sport1" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Sport%201.png",Sport 1
 http://iptvlive.stream:80/p/637638/c/65/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
@@ -415,15 +415,15 @@ http://iptvlive.stream:80/p/748479/c/119/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 http://iptvlive.stream:80/p/539107/c/151/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 #EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-id="sky-sport-hd1" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Sky%20Sports%20Main%20Event%20HD.png",Sky Sports Main Event
 http://iptvlive.stream:80/p/781997/c/107/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Cricket " tvg-id="sky-sport-hd2" group-title="Sportas " tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Sky%20Sports%20Cricket%20HD.png",Sky Sports Cricket 
+#EXTINF:-1 tvg-name="Sky Sports Cricket" tvg-id="sky-sport-hd2" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Sky%20Sports%20Cricket%20HD.png",Sky Sports Cricket
 http://iptvlive.stream:80/p/781997/c/106/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Premier League " tvg-id="sky-sport-hd5" group-title="Sportas " tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Sky%20Sports%20Premier%20League%20HD.png",Sky Sports Premier League 
+#EXTINF:-1 tvg-name="Sky Sports Premier League" tvg-id="sky-sport-hd5" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Sky%20Sports%20Premier%20League%20HD.png",Sky Sports Premier League
 http://iptvlive.stream:80/p/781997/c/108/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Sky Sports F1 " tvg-id="sky-sports-f1" group-title="Sportas " tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Sky%20Sports%20F1%20HD.png",Sky Sports F1 
+#EXTINF:-1 tvg-name="Sky Sports F1" tvg-id="sky-sports-f1" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Sky%20Sports%20F1%20HD.png",Sky Sports F1
 http://iptvlive.stream:80/p/781997/c/103/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="TV3 Sport HD" tvg-id="TVPlay Sports" group-title="Sportas HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TVplay%20Sports%20HD.png",TV3 Sport HD
+#EXTINF:-1 tvg-name="TV3 Sport HD" tvg-id="TVPlay Sports" group-title="Sportas HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%20Sport.png",TV3 Sport HD
 http://iptvlive.stream:80/p/641003/c/62/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="TV3 Sport 2 HD" tvg-id="TVPlay Sports +" group-title="Sportas HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TVplay%20Sports%2B%20HD.png",TV3 Sport 2 HD
+#EXTINF:-1 tvg-name="TV3 Sport 2 HD" tvg-id="TVPlay Sports +" group-title="Sportas HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%20Sport%202.png",TV3 Sport 2 HD
 http://iptvlive.stream:80/p/641003/c/63/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="Sport 1 HD" tvg-id="Sport1" group-title="Sportas HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Sport%201%20HD.png",Sport 1 HD
 http://iptvlive.stream:80/p/641003/c/74/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
