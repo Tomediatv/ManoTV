@@ -117,6 +117,8 @@ http://iptvlive.stream:80/p/753744/c/3/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m
 http://iptvlive.stream:80/p/641003/c/60/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="FilmZone + HD" tvg-id="filmzone-plus-lt" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Filmzone%20%2B%20HD.png",FilmZone + HD
 http://iptvlive.stream:80/p/641003/c/15/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+#EXTINF:-1 tvg-name="Epic Drama HD" tvg-id="epik-drama" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Epic%20Drama%20HD.png",Epic Drama HD
+http://cdn5.tvplayhome.lt/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-mp4a_96000_lit=21-avc1_5000000=15.m3u8
 #EXTINF:-1 tvg-name="TV 1000" tvg-id="TV1000" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV%201000.png",TV 1000
 http://iptvlive.stream:80/p/618125/c/1/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="TV 1000 Action" tvg-id="TV1000 Action" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV%201000%20Action.png",TV 1000 Action
@@ -212,7 +214,7 @@ http://iptvlive.stream:80/p/791446/c/58/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.
 #EXTINF:-1 tvg-name="Кино ТВ HD" tvg-id="kino-tv" group-title="Filmai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D0%B8%D0%BD%D0%BE%20%D0%A2%D0%92.png",Кино ТВ HD
 http://iptvlive.stream:80/p/800800/c/122/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 #EXTINF:-1 tvg-name="Epic Drama HD" tvg-id="epik-drama" group-title="Serialai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Epic%20Drama%20HD.png",Epic Drama HD
-http://iptvlive.stream:80/p/641003/c/17/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://cdn5.tvplayhome.lt/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-mp4a_96000_lit=21-avc1_5000000=15.m3u8
 #EXTINF:-1 tvg-name="ViP Serial HD" tvg-id="vip-serial" group-title="Serialai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/ViP%20Serial%20HD.png",ViP Serial HD
 http://iptvlive.stream:80/p/736229/c/71/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 #EXTINF:-1 tvg-name="Киносерия" tvg-id="kinoseria" group-title="Serialai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D0%B8%D0%BD%D0%BE%D1%81%D0%B5%D1%80%D0%B8%D1%8F.png",Киносерия
