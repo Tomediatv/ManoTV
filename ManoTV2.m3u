@@ -751,6 +751,18 @@ http://88.216.81.190/tv1000/tracks-v1a1/mono.m3u8
 http://88.216.81.190/tv1000_action/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="FilmZone + HD" tvg-id="filmzone-plus-lt" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Filmzone%20%2B%20HD.png",FilmZone + HD
 http://88.216.81.190/filmzone_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="FilmBox" tvg-id="filmbox-ru" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/FilmBox.png",FilmBox
+http://88.216.81.190:81/filmbox_basic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="FilmBox+" tvg-id="filmbox-ru" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/FilmBox.png",FilmBox+
+http://88.216.81.190:81/filmbox_plus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Filmbox Extra HD" tvg-id="filmbox-ru" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/FilmBox.png",Filmbox Extra HD
+http://88.216.81.190:81/filmbox_extra_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="FilmBox Arthouse" tvg-id="filmbox-arthouse" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Filmbox%20Arthouse.png",FilmBox Arthouse
+http://88.216.81.190:81/filmbox_arthouse/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Filmbox Baltic" tvg-id="Filmbox Baltic" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Filmbox%20Baltic.png",Filmbox Baltic
+http://88.216.81.190:81/filmbox_baltic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Sony Channel " tvg-id="Sony Channel" group-title="HLS Mono" tvg-logo="Logo N/A",Sony Channel
+http://88.216.81.190:81/sony_channel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="TV3 Sport" tvg-id="tvplay-sports" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%20Sport.png",TV3 Sport
 http://88.216.81.190/tv_play_sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Sport 1" tvg-id="Sport1" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Sport%201.png",Sport 1
@@ -759,9 +771,27 @@ http://88.216.81.190/sport1/tracks-v1a1/mono.m3u8
 http://88.216.81.190/eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Eurosport 2" tvg-id="eurosport2" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Eurosport2.png",Eurosport 2
 http://88.216.81.190/eurosport_2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports HD" tvg-id="setanta-sports" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Setanta%20Sports%20HD.png",Setanta Sports HD
+http://88.216.80.254:81/setanta_sport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Viasat Explore" tvg-id="Viasat Explore Nordic" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Viasat%20Explore.png",Viasat Explore
 http://88.216.81.190/viasat_explorer/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Viasat History" tvg-id="Viasat History" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Viasat%20History.png",Viasat History
 http://88.216.81.190/viasat_history/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Viasat Nature" tvg-id="VIASAT Nature East" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Viasat%20Nature.png",Viasat Nature
 http://88.216.81.190/viasat_nature/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="National Geographic" tvg-id="national-geographic" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/National%20Geographic.png",National Geographic
+http://88.216.81.190:81/national_geographic_channel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-id="discovery-channel" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Discovery%20Channel.png",Discovery Channel
+http://88.216.81.190:81/discovery_channel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Travel Channel HD" tvg-id="travel-channel" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Travel%20Channel%20HD.png",Travel Channel HD
+http://88.216.81.190:81/travel_channel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="DocuBox HD" tvg-id="docubox-hd" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Docubox%20HD.png",DocuBox HD
+http://88.216.81.190:81/docubox_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Fast&Fun Box HD" tvg-id="fastfunbox-hd" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Fast%26Fun%20Box%20HD.png",Fast&Fun Box HD
+http://88.216.81.190:81/fast_and_funbox_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Animal Planet" tvg-id="animal-planet" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Animal%20Planet.png",Animal Planet
+http://88.216.81.190:81/animal_planet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="VH1 European" tvg-id="vh1-european" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/VH1%20European.png",VH1 European
+http://88.216.81.190:81/vh1_european/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="MTV Hits" tvg-id="mtv-hits" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/MTV%20Hits.png",MTV Hits
+http://88.216.81.190:81/mtv_hits/tracks-v1a1/mono.m3u8
