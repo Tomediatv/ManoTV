@@ -120,9 +120,9 @@ http://iptvlive.stream:80/p/641003/c/15/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.
 #EXTINF:-1 tvg-name="Epic Drama HD" tvg-id="epik-drama" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Epic%20Drama%20HD.png",Epic Drama HD
 http://cdn5.tvplayhome.lt/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-mp4a_96000_lit=21-avc1_5000000=15.m3u8
 #EXTINF:-1 tvg-name="TV 1000" tvg-id="TV1000" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV%201000.png",TV 1000
-http://iptvlive.stream:80/p/618125/c/1/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/452365/c/17/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 #EXTINF:-1 tvg-name="TV 1000 Action" tvg-id="TV1000 Action" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV%201000%20Action.png",TV 1000 Action
-http://iptvlive.stream:80/p/618125/c/5/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/452365/c/58/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 #EXTINF:-1 tvg-name="TV 1000 Русское кино" tvg-id="TV1000 Kino" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV1000%20Russkoe%20Kino.png",TV 1000 Русское кино
 http://iptvlive.stream:80/p/558965/c/18/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 #EXTINF:-1 tvg-name="TV 1000 World Kino" tvg-id="tv1000-worldkino" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV%201000%20World%20Kino.png",TV 1000 World Kino
@@ -761,7 +761,7 @@ http://88.216.81.190:81/filmbox_extra_hd/tracks-v1a1/mono.m3u8
 http://88.216.81.190:81/filmbox_arthouse/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Filmbox Baltic" tvg-id="Filmbox Baltic" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Filmbox%20Baltic.png",Filmbox Baltic
 http://88.216.81.190:81/filmbox_baltic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Sony Channel " tvg-id="Sony Channel" group-title="HLS Mono" tvg-logo="Logo N/A",Sony Channel
+#EXTINF:-1 tvg-name="Sony Channel" tvg-id="Sony Channel" group-title="HLS Mono" tvg-logo="Logo N/A",Sony Channel
 http://88.216.81.190:81/sony_channel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="TV3 Sport" tvg-id="tvplay-sports" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%20Sport.png",TV3 Sport
 http://88.216.81.190/tv_play_sports/tracks-v1a1/mono.m3u8
