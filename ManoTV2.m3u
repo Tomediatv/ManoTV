@@ -12,35 +12,35 @@ http://iptvlive.stream:80/p/784819/c/486/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 #EXTINF:-1 tvg-name="Al Jazeera English" tvg-id="al-jazeera-int" group-title="Žinios" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Al%20Jazeera%20English.png",Al Jazeera English
 http://iptvlive.stream:80/p/663250/c/205/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="Info TV" tvg-id="info-tv" group-title="Žinios" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Info%20TV.png",Info TV
-http://88.216.8.122:8080/info_tv/index.m3u8
+http://84.32.13.62:8080/info_tv/index.m3u8
 #EXTINF:-1 tvg-name="LRT Televizija" tvg-id="lrt-tv" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Televizija.png",LRT Televizija
 http://88.119.220.3/live/eds/LRT/HLS_encr/LRT-mp4a_96000_lit=1-avc1_2200000=5.m3u8
 #EXTINF:-1 tvg-name="LRT Plius" tvg-id="lrt-kultura" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Plius%20HD.png",LRT Plius
-http://88.216.8.122:8080/lrt_kultura/index.m3u8
+http://84.32.13.62:8080/lrt_kultura/index.m3u8
 #EXTINF:-1 tvg-name="LRT Lituanica" tvg-id="lrt-lituanica" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Lituanica.png",LRT Lituanica
 http://88.119.220.3/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania-mp4a_96000=1-avc1_2200000=8.m3u8
 #EXTINF:-1 tvg-name="TV3" tvg-id="tv3-lt" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3.png",TV3
-http://88.216.8.122:8080/tv3/index.m3u8
+http://84.32.13.62:8080/tv3/index.m3u8
 #EXTINF:-1 tvg-name="TV3 HLS" tvg-id="tv3-lt" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3.png",TV3 HLS
 https://cdn9.tvplayhome.lt/live/eds/TV3_LT_SD/HLS_encr/TV3_LT_SD-mp4a_96000_lit=9-avc1_2200000=13.m3u8
 #EXTINF:-1 tvg-name="LNK" tvg-id="lnk" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LNK.png",LNK
-http://88.216.8.122:8080/lnk/index.m3u8
+http://84.32.13.62:8080/lnk/index.m3u8
 #EXTINF:-1 tvg-name="TV6" tvg-id="tv6-lt" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV6.png",TV6
-http://88.216.8.122:8080/tv6/index.m3u8
+http://84.32.13.62:8080/tv6/index.m3u8
 #EXTINF:-1 tvg-name="TV1" tvg-id="tv1-lt" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV1.png",TV1
-http://88.216.8.122:8080/tv1/index.m3u8
+http://84.32.13.62:8080/tv1/index.m3u8
 #EXTINF:-1 tvg-name="BTV" tvg-id="btv" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/BTV.png",BTV
-http://88.216.8.122:8080/btv/index.m3u8
+http://84.32.13.62:8080/btv/index.m3u8
 #EXTINF:-1 tvg-name="Balticum TV" tvg-id="balticum-tv" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Balticum%20TV.png",Balticum TV
-http://88.216.8.122:8080/balticum/index.m3u8
+http://212.12.194.10/balticum/live.m3u8
 #EXTINF:-1 tvg-name="Info TV" tvg-id="info-tv" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Info%20TV.png",Info TV
-http://88.216.8.122:8080/info_tv/index.m3u8
+http://84.32.13.62:8080/info_tv/index.m3u8
 #EXTINF:-1 tvg-name="Lietuvos rytas TV" tvg-id="lietuvos-ryto-televizija" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Lietuvos%20Rytas%20TV.png",Lietuvos rytas TV
-http://iptvlive.stream:80/p/753744/c/17/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://84.32.13.62:8080/lietuvos_ryto_tv/index.m3u8
 #EXTINF:-1 tvg-name="TV8" tvg-id="tv8-lt" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV8.png",TV8
-http://88.216.8.122:8080/tv8/index.m3u8
+http://84.32.13.62:8080/tv8/index.m3u8
 #EXTINF:-1 tvg-name="LIUKS!" tvg-id="liuks" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Liuks!.png",LIUKS!
-http://88.216.8.122:8080/liuks/index.m3u8
+http://84.32.13.62:8080/liuks/index.m3u8
 #EXTINF:-1 tvg-name="INIT TV" tvg-id="init-tv" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Init%20TV.png",INIT TV
 http://iptvlive.stream:80/p/838786/c/138/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="INIT Ekstra TV" tvg-id="init-extra-tv" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Init%20EkstraTV.png",INIT Ekstra TV
