@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1,M-1
+http://radio.m-1.fm:80/m1/mp3
+#EXTINF:-1,Radiocentras
+http://84.46.205.13:80/rc128.mp3
+#EXTINF:-1,European Hit Radio
+http://82.135.234.195:8000/ehr.mp3
+#EXTINF:-1,Power Hit Radio
+http://power-stream.tv3.lt:8000/PHR.mp3
+#EXTINF:-1,Zip FM
+http://84.46.205.13:80/zipfm128.mp3
+#EXTINF:-1,Relax
+http://5.20.223.18:80/relaxfm128.mp3
+#EXTINF:-1,Kelyje
+http://82.135.234.195:8000/kelyje_kaunas.mp3
+#EXTINF:-1,Saules Radijas
+http://saule-mp3.vinlita.lt:8008/stream.mp3
+#EXTINF:-1,Pulsas
+http://195.12.190.55:8000/stream
+#EXTINF:-1,Svetur
+http://svetur.intellmedia.lt:8282/tiesiogiai.mp3
+#EXTINF:-1,Laluna
+http://radio.m-1.fm:80/laluna/mp3
+#EXTINF:-1,Upsas
+http://upsas.eu:8000/upsas_320
+#EXTINF:-1,ExtraFM.mp3
+http://82.135.234.195:8000/extrafm.mp3
+#EXTINF:-1,Geras FM
+http://82.135.234.195:8000/gerasfm.mp3
+#EXTINF:-1,GTALG Radijas
+http://streaming.radionomy.com/GTALGRadijas?lang=en-GB%2cen%3bq%3d0.9%2cen-US%3bq%3d0.8%2clt%3bq%3d0.7
+#EXTINF:-1,Mano Fm
+http://stream.manofm.lt/listen
+#EXTINF:-1,Mažeikių Aidas
+http://maidas.kli.lt:8000/admin.mp3
+#EXTINF:-1,Tauragės Radijas
+http://stream.tauragesradijas.lt:8000/tr1
+#EXTINF:-1,RS2
+http://77.79.33.225:8000/rs2.lt.aac
+#EXTINF:-1,M-1 Plus
+http://radio.m-1.fm:80/M-1PLIUS
+#EXTINF:-1,FM99
+http://82.135.234.195:8000/fm99.mp3
+#EXTINF:-1,A2
+http://213.197.178.50:8000/A2stereo
+#EXTINF:-1,Gold FM
+http://82.135.234.195:8000/goldfm.mp3
+#EXTINF:-1,Neringa FM
+http://185.11.24.72:8000/neringa_ogg
+#EXTINF:-1,Lietus
+http://radio.m-1.fm:80/LIETUS
+#EXTINF:-1,Pūkas
+http://82.135.234.195:8000/pukas.mp3
+#EXTINF:-1,Pūkas 2
+http://82.135.234.195:8000/pukas2.aac
+#EXTINF:-1,Start FM
+http://eteris.startfm.lt/startfm.mp3?_=1
+#EXTINF:-1,Rock FM
+http://5.20.223.18:80/crf128.mp3
+#EXTINF:-1,RadijoGAMA
+http://212.24.99.134:8000/live
+#EXTINF:-1,Easy FM
+http://netradio.ziniuradijas.lt/easyfm_64.mp3
+#EXTINF:-1,Ziniu Radijas
+http://netradio.ziniur.lt/ziniur.mp3
+#EXTINF:-1,Lietuvos Radijas
+http://82.135.234.195:8000/lr.mp3
+#EXTINF:-1,LRT Opus
+http://82.135.234.195:8000/opus3.mp3
+#EXTINF:-1,LRT Klasika
+http://82.135.234.195:8000/klasika.mp3
+#EXTINF:-1,XFM
+http://88.119.151.74:8001/xfm
+#EXTINF:-1,PMR
+http://pmr.lt/streams/pmr-1
+#EXTINF:-1,Vaikų Radijas
+http://88.119.151.74:8001/vaikuradijas
+#EXTINF:-1,RusRadio
+http://5.20.223.18/rrb128.mp3
+#EXTINF:-1,Радуга
+http://radio.m-1.fm:80/raduga/high
