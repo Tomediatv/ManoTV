@@ -6,7 +6,7 @@ http://iptvlive.stream:80/p/637638/c/16/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.
 #EXTINF:-1 tvg-name="CNN International" tvg-id="cnn" group-title="Žinios" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/CNN%20International.png",CNN International
 http://iptvlive.stream:80/p/781668/c/217/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 #EXTINF:-1 tvg-name="BBC World News" tvg-id="bbc" group-title="Žinios" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/BBC%20World%20News.png",BBC World News
-http://iptvlive.stream:80/p/792189/c/257/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+http://cdn4.tvplayhome.lt/live/eds/BBC/HLS_encr/BBC-mp4a_96000_eng=1-avc1_2200000=8.m3u8
 #EXTINF:-1 tvg-name="Sky News" tvg-id="Sky News" group-title="Žinios" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Sky%20News.png",Sky News
 http://iptvlive.stream:80/p/784819/c/486/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera English" tvg-id="al-jazeera-int" group-title="Žinios" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Al%20Jazeera%20English.png",Al Jazeera English
@@ -32,7 +32,7 @@ http://84.32.13.62:8080/tv1/index.m3u8
 #EXTINF:-1 tvg-name="BTV" tvg-id="btv" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/BTV.png",BTV
 http://84.32.13.62:8080/btv/index.m3u8
 #EXTINF:-1 tvg-name="Balticum TV" tvg-id="balticum-tv" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Balticum%20TV.png",Balticum TV
-http://212.12.194.10/balticum/live.m3u8
+http://iptvlive.stream:80/p/876003/c/20/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="Info TV" tvg-id="info-tv" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Info%20TV.png",Info TV
 http://84.32.13.62:8080/info_tv/index.m3u8
 #EXTINF:-1 tvg-name="Lietuvos rytas TV" tvg-id="lietuvos-ryto-televizija" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Lietuvos%20Rytas%20TV.png",Lietuvos rytas TV
@@ -58,17 +58,21 @@ http://iptvlive.stream:80/p/119409/c/18/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 #EXTINF:-1 tvg-name="Tavo TV" tvg-id="EPG N/A" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Tavo%20Tv.png",Tavo TV
 http://iptvlive.stream:80/s/13528/c/2439/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="Šiaulių Televizija" tvg-id="id N/A" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%C5%A0iauli%C5%B3%20Televizija.png",Šiaulių Televizija
-http://iptvlive.stream:80/p/452365/c/140/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://88.216.81.190/siauliu_tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Seimas tiesiogiai" tvg-id="seimas-tiesiogiai" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Seimas%20Tiesiogiai.png",Seimas tiesiogiai
 http://iptvlive.stream:80/p/452365/c/136/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="Žvaigždė" tvg-id="Žvaigždė" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%C5%BDvaig%C5%BEd%C4%97.png",Žvaigždė
-http://iptvlive.stream:80/p/452365/c/139/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://88.216.81.190/zvaigzde/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="TV3 Film" tvg-id="tv1000-premium" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%20Film.png",TV3 Film
 http://88.119.220.3/live/eds/TV1000PremiumSD/HLS_encr/TV1000PremiumSD-mp4a_96000_lit=1-avc1_2200000=16.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="tv1000-premium" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%20Film.png",TV3 Film
+https://cdn2.tvplayhome.lt/live/eds/TV1000PremiumSD/HLS_encr/TV1000PremiumSD-mp4a_96000_lit=1-avc1_2200000=16.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="tv1000-premium" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%20Film.png",TV3 Film
+http://iptvlive.stream:80/p/637638/c/72/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="Balticum Auksinis" tvg-id="balt-auks" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Balticum%20Auksinis.png",Balticum Auksinis
 http://88.216.80.254:81/balticum_auksinis/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Balticum Platinum HD" tvg-id="Balticum Platinum" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Balticum%20Platinum%20HD.png",Balticum Platinum HD
-http://iptvlive.stream:80/p/753744/c/3/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/838326/c/87/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="FilmZone" tvg-id="filmzone-lt" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Filmzone.png",FilmZone
 http://iptvlive.stream:80/p/641003/c/60/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="FilmZone + HD" tvg-id="filmzone-plus-lt" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Filmzone%20%2B%20HD.png",FilmZone + HD
