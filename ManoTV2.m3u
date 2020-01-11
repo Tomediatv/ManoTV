@@ -65,9 +65,7 @@ http://iptvlive.stream:80/p/452365/c/136/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 http://88.216.81.190/zvaigzde/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="TV3 Film" tvg-id="tv1000-premium" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%20Film.png",TV3 Film
 http://88.119.220.3/live/eds/TV1000PremiumSD/HLS_encr/TV1000PremiumSD-mp4a_96000_lit=1-avc1_2200000=16.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="tv1000-premium" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%20Film.png",TV3 Film
-https://cdn2.tvplayhome.lt/live/eds/TV1000PremiumSD/HLS_encr/TV1000PremiumSD-mp4a_96000_lit=1-avc1_2200000=16.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="tv1000-premium" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%20Film.png",TV3 Film
+#EXTINF:-1 tvg-name="TV3 Film 2" tvg-id="tv1000-premium" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%20Film.png",TV3 Film 2
 http://iptvlive.stream:80/p/637638/c/72/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="Balticum Auksinis" tvg-id="balt-auks" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Balticum%20Auksinis.png",Balticum Auksinis
 http://88.216.80.254:81/balticum_auksinis/tracks-v1a1/mono.m3u8
