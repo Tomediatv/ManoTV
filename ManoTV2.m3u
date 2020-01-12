@@ -63,7 +63,7 @@ http://88.216.81.190/siauliu_tv/tracks-v1a1/mono.m3u8
 http://iptvlive.stream:80/p/452365/c/136/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="Žvaigždė" tvg-id="Žvaigždė" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%C5%BDvaig%C5%BEd%C4%97.png",Žvaigždė
 http://88.216.81.190/zvaigzde/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="TV3 Film " tvg-id="tv1000-premium" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%20Film.png",TV3 Film 
+#EXTINF:-1 tvg-name="TV3 Film" tvg-id="tv1000-premium" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%20Film.png",TV3 Film
 http://iptvlive.stream:80/p/637638/c/72/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="TV3 Film HD" tvg-id="tv1000-premium" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%20Film.png",TV3 Film HD
 http://88.216.48.147/flussonic/TV1000Pre_HD/video.m3u8
@@ -107,6 +107,8 @@ http://iptvlive.stream:80/p/825831/c/45/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 http://178.124.183.5/hls/FEDXG8XPOR/variant.m3u8?version=2
 #EXTINF:-1 tvg-name="Мужское кино" tvg-id="muzhskoe-kino" group-title="Filmai" tvg-logo="https://iptv.live/ru/images/logo/channel/crops/fd6b1a231c07d09db037f37f18e9d295.png",Мужское кино
 http://iptvlive.stream:80/p/814887/c/27/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+#EXTINF:-1 tvg-name="Кино Премиум HD" tvg-id="kinopremium-hd" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D0%B8%D0%BD%D0%BE%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%20HD.png",Кино Премиум HD
+http://iptvlive.stream:80/p/543614/c/242/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="AMC" tvg-id="amc" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/AMC.png",AMC
 http://iptvlive.stream:80/p/683813/c/299/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="Kinoman HD" tvg-id="EPG N/A" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Kinoman%20HD.png",Kinoman HD
@@ -715,98 +717,6 @@ http://iptvlive.stream:80/s/13163/c/1044/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 http://iptvlive.stream:80/s/13163/c/1045/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 #EXTINF:-1 tvg-name="ESPN 3 HD" tvg-id="EPG N/A" group-title="Sportas HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/ESPN%203%20HD.png",ESPN 3 HD
 http://iptvlive.stream:80/s/13163/c/1640/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="LRT Televizija" tvg-id="lrt-tv" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Televizija.png",LRT Televizija
-http://88.216.81.190/lrt_tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="LRT Plius" tvg-id="lrt-kultura" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Plius%20HD.png",LRT Plius
-http://88.216.81.190/lrt_kultura/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="LRT Lituanica" tvg-id="lrt-lituanica" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Lituanica.png",LRT Lituanica
-http://88.216.81.190/lrt_lituanica/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="TV3" tvg-id="tv3-lt" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3.png",TV3
-http://88.216.81.190/tv3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="LNK" tvg-id="lnk" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LNK.png",LNK
-http://88.216.81.190/lnk/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="TV6" tvg-id="tv6-lt" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV6.png",TV6
-http://88.216.81.190/tv6/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="TV1" tvg-id="tv1-lt" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV1.png",TV1
-http://88.216.81.190/tv1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="BTV" tvg-id="btv" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/BTV.png",BTV
-http://88.216.81.190/btv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Info TV" tvg-id="info-tv" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Info%20TV.png",Info TV
-http://88.216.81.190/info_tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Lietuvos rytas TV" tvg-id="lietuvos-ryto-televizija" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Lietuvos%20Rytas%20TV.png",Lietuvos rytas TV
-http://88.216.81.190/lietuvos_ryto_tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="TV8" tvg-id="tv8-lt" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV8.png",TV8
-http://88.216.81.190/tv8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="LIUKS!" tvg-id="liuks" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Liuks!.png",LIUKS!
-http://88.216.81.190/liuks/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="LRT Televizija HD" tvg-id="lrt-tv" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Televizija%20HD.png",LRT Televizija HD
-http://88.216.81.190/lrt_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="TV3 HD" tvg-id="tv3-lt" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%20HD.png",TV3 HD
-http://88.216.81.190/tv3hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="LNK HD" tvg-id="lnk" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LNK%20HD.png",LNK HD
-http://88.216.81.190/lnk_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="TV6 HD" tvg-id="tv6-lt" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV6%20HD.png",TV6 HD
-http://88.216.81.190/tv6hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="TV1 HD" tvg-id="tv1-lt" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV1%20HD.png",TV1 HD
-http://88.216.81.190/tv1_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="BTV HD" tvg-id="btv" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/BTV%20HD.png",BTV HD
-http://88.216.81.190/btv_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Info TV HD" tvg-id="info-tv" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Info%20TV%20HD.png",Info TV HD
-http://88.216.81.190/infotv_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="TV8 HD" tvg-id="tv8-lt" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV8%20HD.png",TV8 HD
-http://88.216.81.190/tv8hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Balticum Auksinis" tvg-id="balt-auks" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Balticum%20Auksinis.png",Balticum Auksinis
-http://88.216.81.190/balticum_auksinis/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="TV 1000" tvg-id="TV1000" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV%201000.png",TV 1000
-http://88.216.81.190/tv1000/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="TV 1000 Action" tvg-id="TV1000 Action" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV%201000%20Action.png",TV 1000 Action
-http://88.216.81.190/tv1000_action/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="FilmZone + HD" tvg-id="filmzone-plus-lt" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Filmzone%20%2B%20HD.png",FilmZone + HD
-http://88.216.81.190/filmzone_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="FilmBox" tvg-id="filmbox-ru" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/FilmBox.png",FilmBox
-http://88.216.81.190:81/filmbox_basic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="FilmBox+" tvg-id="filmbox-ru" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/FilmBox.png",FilmBox+
-http://88.216.81.190:81/filmbox_plus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Filmbox Extra HD" tvg-id="filmbox-ru" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/FilmBox.png",Filmbox Extra HD
-http://88.216.81.190:81/filmbox_extra_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="FilmBox Arthouse" tvg-id="filmbox-arthouse" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Filmbox%20Arthouse.png",FilmBox Arthouse
-http://88.216.81.190:81/filmbox_arthouse/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Filmbox Baltic" tvg-id="Filmbox Baltic" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Filmbox%20Baltic.png",Filmbox Baltic
-http://88.216.81.190:81/filmbox_baltic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Sony Channel" tvg-id="Sony Channel" group-title="HLS Mono" tvg-logo="Logo N/A",Sony Channel
-http://88.216.81.190:81/sony_channel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="TV3 Sport" tvg-id="tvplay-sports" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%20Sport.png",TV3 Sport
-http://88.216.81.190/tv_play_sports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Sport 1" tvg-id="Sport1" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Sport%201.png",Sport 1
-http://88.216.81.190/sport1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Eurosport 1" tvg-id="eurosport1" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Eurosport%201.png",Eurosport 1
-http://88.216.81.190/eurosport/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Eurosport 2" tvg-id="eurosport2" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Eurosport2.png",Eurosport 2
-http://88.216.81.190/eurosport_2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports HD" tvg-id="setanta-sports" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Setanta%20Sports%20HD.png",Setanta Sports HD
-http://88.216.80.254:81/setanta_sport/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Viasat Explore" tvg-id="Viasat Explore Nordic" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Viasat%20Explore.png",Viasat Explore
-http://88.216.81.190/viasat_explorer/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Viasat History" tvg-id="Viasat History" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Viasat%20History.png",Viasat History
-http://88.216.81.190/viasat_history/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Viasat Nature" tvg-id="VIASAT Nature East" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Viasat%20Nature.png",Viasat Nature
-http://88.216.81.190/viasat_nature/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="National Geographic" tvg-id="national-geographic" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/National%20Geographic.png",National Geographic
-http://88.216.81.190:81/national_geographic_channel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Discovery Channel" tvg-id="discovery-channel" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Discovery%20Channel.png",Discovery Channel
-http://88.216.81.190:81/discovery_channel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Travel Channel HD" tvg-id="travel-channel" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Travel%20Channel%20HD.png",Travel Channel HD
-http://88.216.81.190:81/travel_channel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="DocuBox HD" tvg-id="docubox-hd" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Docubox%20HD.png",DocuBox HD
-http://88.216.81.190:81/docubox_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Fast&Fun Box HD" tvg-id="fastfunbox-hd" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Fast%26Fun%20Box%20HD.png",Fast&Fun Box HD
-http://88.216.81.190:81/fast_and_funbox_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Animal Planet" tvg-id="animal-planet" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Animal%20Planet.png",Animal Planet
-http://88.216.81.190:81/animal_planet/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="VH1 European" tvg-id="vh1-european" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/VH1%20European.png",VH1 European
-http://88.216.81.190:81/vh1_european/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="MTV Hits" tvg-id="mtv-hits" group-title="HLS Mono" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/MTV%20Hits.png",MTV Hits
-http://88.216.81.190:81/mtv_hits/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Kino Beta" tvg-logo="logo N/A",Кино UHD
 http://188.35.9.26:16050/udp/238.0.16.1:69000
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Kino Beta" tvg-logo="logo N/A",Кино премиум HD
