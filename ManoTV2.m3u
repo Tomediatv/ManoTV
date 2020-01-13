@@ -62,9 +62,7 @@ http://iptvlive.stream:80/p/452365/c/136/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw
 #EXTINF:-1 tvg-name="Žvaigždė" tvg-id="Žvaigždė" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%C5%BDvaig%C5%BEd%C4%97.png",Žvaigždė
 http://88.216.81.190/zvaigzde/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="TV3 Film" tvg-id="tv1000-premium" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%20Film.png",TV3 Film
-http://iptvlive.stream:80/p/637638/c/72/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
-#EXTINF:-1 tvg-name="TV3 Film HD" tvg-id="tv1000-premium" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%20Film.png",TV3 Film HD
-http://88.216.48.147/flussonic/TV1000Pre_HD/video.m3u8
+http://iptvlive.stream:80/p/838338/c/44/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw
 #EXTINF:-1 tvg-name="Balticum Auksinis" tvg-id="balt-auks" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Balticum%20Auksinis.png",Balticum Auksinis
 http://88.216.80.254:81/balticum_auksinis/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Balticum Platinum HD" tvg-id="Balticum Platinum" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Balticum%20Platinum%20HD.png",Balticum Platinum HD
