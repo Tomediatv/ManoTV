@@ -86,11 +86,11 @@ http://178.124.183.14/hls/PWIKICZUYF/bw1200000/playlist.m3u8
 #EXTINF:-1 tvg-name="TV 1000 World Kino" tvg-id="tv1000-worldkino" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV%201000%20World%20Kino.png",TV 1000 World Kino
 http://iptvlive.stream:80/p/665643/c/237/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
 #EXTINF:-1 tvg-name="ViP Premiere" tvg-id="vip-premiere" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/VIP%20Premiere%20HD.png",ViP Premiere
-http://streamer.sktv.peers.tv/streaming/tv1000_premium_hd/364/copy/playlist.m3u8
+http://iptvlive.stream:80/p/887815/c/29/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
 #EXTINF:-1 tvg-name="ViP Comedy" tvg-id="vip-comedy" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/VIP%20Comedy%20HD.png",ViP Comedy
-http://streamer.sktv.peers.tv/streaming/tv_1000_comedy_hd/364/copy/playlist.m3u8
+http://iptvlive.stream:80/p/887815/c/25/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
 #EXTINF:-1 tvg-name="ViP Megahit" tvg-id="vip-megahit" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/VIP%20Megahit%20HD.png",ViP Megahit
-http://streamer.sktv.peers.tv/streaming/tv_1000_megahit_hd/364/copy/playlist.m3u8
+http://iptvlive.stream:80/p/887815/c/28/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
 #EXTINF:-1 tvg-name="Кинохит" tvg-id="kinoxit" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D0%B8%D0%BD%D0%BE%D1%85%D0%B8%D1%82.png",Кинохит
 http://iptvlive.stream:80/p/811854/c/32/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
 #EXTINF:-1 tvg-name="Киномикс" tvg-id="kinomiks" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D1%81.png",Киномикс
