@@ -705,3 +705,7 @@ http://autopilot.myowntv.org:80/content/35525/index.m3u8
 http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Kino Beta" tvg-logo="logo N/A",Комедийное HD
 http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Kino Beta" tvg-logo="logo N/A",Кинозал
+http://iptvlive.stream:80/p/887815/c/136/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Kino Beta" tvg-logo="logo N/A",Кинозал
+http://iptvlive.stream:80/p/887815/c/139/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
