@@ -1,608 +1,432 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="LRT Televizija" tvg-id="lrt-tv" group-title="Lietuviška Beta TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Televizija.png",LRT Televizija
-http://88.216.8.122:8080/lrt_televizija/index.m3u8
-#EXTINF:-1 tvg-name="TV3" tvg-id="tv3-lt" group-title="Lietuviška Beta TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3.png",TV3
-http://88.216.8.122:8080/tv3/index.m3u8
-#EXTINF:-1 tvg-name="LNK" tvg-id="lnk" group-title="Lietuviška Beta TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LNK.png",LNK
-http://88.216.8.122:8080/lnk/index.m3u8
-#EXTINF:-1 tvg-name="TV6" tvg-id="tv6-lt" group-title="Lietuviška Beta TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV6.png",TV6
-http://88.216.8.122:8080/tv6/index.m3u8
-#EXTINF:-1 tvg-name="TV1" tvg-id="tv1-lt" group-title="Lietuviška Beta TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV1.png",TV1
-http://88.216.8.122:8080/tv1/index.m3u8
-#EXTINF:-1 tvg-name="BTV" tvg-id="btv" group-title="Lietuviška Beta TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/BTV.png",BTV
-http://88.216.8.122:8080/btv/index.m3u8
-#EXTINF:-1 tvg-name="Info TV" tvg-id="info-tv" group-title="Lietuviška Beta TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Info%20TV.png",Info TV
-http://88.216.8.122:8080/info_tv/index.m3u8
-#EXTINF:-1 tvg-name="TV8" tvg-id="tv8-lt" group-title="Lietuviška Beta TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV8.png",TV8
-http://88.216.8.122:8080/tv8/index.m3u8
-#EXTINF:-1 tvg-name="LIUKS!" tvg-id="liuks" group-title="Lietuviška Beta TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Liuks!.png",LIUKS!
-http://88.216.8.122:8080/liuks/index.m3u8
-#EXTINF:-1 tvg-name="Balticum TV" tvg-id="balticum-tv" group-title="Lietuviška Beta TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Balticum%20TV.png",Balticum TV
-http://88.216.8.122:8080/balticum/index.m3u8
-#EXTINF:-1 tvg-name="Balticum Auksinis" tvg-id="balticum-auksinis" group-title="Lietuviška Beta TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Balticum%20Auksinis.png",Balticum Auksinis
-http://88.216.8.122:8080/balticum_auksinis/index.m3u8
-#EXTINF:-1 tvg-name="TV 1000" tvg-id="tv1000" group-title="Lietuviška Beta TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV%201000.png",TV 1000
-http://88.216.8.122:8080/tv1000/index.m3u8
-#EXTINF:-1 tvg-name="Euronews" tvg-id="euronews" group-title="Lietuviška Beta TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Euronews.png",Euronews
-http://88.216.8.122:8080/euronews/index.m3u8
-#EXTINF:-1 tvg-name="Discovery Science" tvg-id="discovery-science" group-title="Lietuviška Beta TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Discovery%20Science.png",Discovery Science
-http://88.216.8.122:8080/discovery_science/index.m3u8
-#EXTINF:-1 tvg-name="LRT Televizija" tvg-id="lrt-tv" group-title="Lietuviška HLS TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Televizija.png",LRT Televizija
-http://88.119.220.3/live/eds/LRT/HLS_encr/LRT-audio_20000=96000-video=2200000.m3u8
-#EXTINF:-1 tvg-name="LRT Lituanica" tvg-id="lrt-lituanica" group-title="Lietuviška HLS TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Lituanica.png",LRT Lituanica
-http://88.119.220.3/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania-audio_20000=96000-video=2200000.m3u8
-#EXTINF:-1 tvg-name="TV3" tvg-id="tv3-lt" group-title="Lietuviška HLS TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3.png",TV3
-http://88.119.220.3/live/eds/TV3_LT_SD/HLS_encr/TV3_LT_SD-audio_20001=96000-video=2200000.m3u8
-#EXTINF:-1 tvg-name="TV3 HD" tvg-id="tv3-lt" group-title="Lietuviška HLS TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3.png",TV3 HD
-https://88.119.220.3/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD-audio_20001=96000-video=5500000.m3u8
-#EXTINF:-1 tvg-name="LNK" tvg-id="lnk" group-title="Lietuviška HLS TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LNK.png",LNK
-http://88.119.220.3/live/eds/LNK/HLS_encr/LNK-audio_20000=96000-video=2200000.m3u8
-#EXTINF:-1 tvg-name="TV6" tvg-id="tv6-lt" group-title="Lietuviška HLS TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV6.png",TV6
-http://88.119.220.3/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD-audio_20002=96000-video=2200000.m3u8
-#EXTINF:-1 tvg-name="TV1" tvg-id="tv1-lt" group-title="Lietuviška HLS TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV1.png",TV1
-http://88.216.8.122:8080/tv1/index.m3u8
-#EXTINF:-1 tvg-name="BTV" tvg-id="btv" group-title="Lietuviška HLS TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/BTV.png",BTV
-http://88.216.8.122:8080/btv/index.m3u8
-#EXTINF:-1 tvg-name="TV8" tvg-id="tv8-lt" group-title="Lietuviška HLS TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV8.png",TV8
-http://88.119.220.3/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD-audio_20001=96000-video=2200000.m3u8
-#EXTINF:-1 tvg-name="LRT Televizija" tvg-id="lrt-tv" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Televizija.png",LRT Televizija
-http://iptvlive.stream:80/p/753744/c/4/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="LRT Plius" tvg-id="lrt-kultura" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Plius%20HD.png",LRT Plius
-http://iptvlive.stream:80/p/753744/c/74/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="LRT Lituanica" tvg-id="lrt-lituanica" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Lituanica.png",LRT Lituanica
-http://iptvlive.stream:80/s/9703/c/563/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="SmartZone HD" tvg-id="smartzone" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/SmartZone%20HD.png",SmartZone HD
-http://iptvlive.stream:80/p/641003/c/24/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="TV3" tvg-id="tv3-lt" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3.png",TV3
-http://iptvlive.stream:80/p/753744/c/7/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="LNK" tvg-id="lnk" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LNK.png",LNK
-http://iptvlive.stream:80/p/753744/c/6/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="TV6" tvg-id="tv6-lt" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV6.png",TV6
-http://iptvlive.stream:80/p/753744/c/11/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="TV1" tvg-id="tv1-lt" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV1.png",TV1
-http://iptvlive.stream:80/p/753744/c/9/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="BTV" tvg-id="btv" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/BTV.png",BTV
-http://iptvlive.stream:80/p/753744/c/12/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Balticum TV" tvg-id="balticum-tv" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Balticum%20TV.png",Balticum TV
-http://iptvlive.stream:80/p/637638/c/4/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Info TV" tvg-id="info-tv" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Info%20TV.png",Info TV
-http://iptvlive.stream:80/p/753744/c/61/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Lietuvos rytas TV" tvg-id="lietuvos-ryto-televizija" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Lietuvos%20Rytas%20TV.png",Lietuvos rytas TV
-http://iptvlive.stream:80/p/753744/c/17/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="TV8" tvg-id="tv8-lt" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV8.png",TV8
-http://iptvlive.stream:80/p/753744/c/13/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="LIUKS!" tvg-id="liuks" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Liuks!.png",LIUKS!
-http://iptvlive.stream:80/p/728260/c/8/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="INIT TV" tvg-id="init-tv" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Init%20TV.png",INIT TV
-http://iptvlive.stream:80/p/637638/c/30/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="INIT Ekstra TV" tvg-id="init-extra-tv" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Init%20EkstraTV.png",INIT Ekstra TV
-http://iptvlive.stream:80/p/591779/c/64/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="TV7" tvg-id="TV 7" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV7.png",TV7
-http://iptvlive.stream:80/p/637638/c/78/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="PlayTV" tvg-id="playtv" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/PlayTV.png",PlayTV
-http://iptvlive.stream:80/p/591779/c/351/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Pūkas TV" tvg-id="pukas-tv" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/P%C5%ABkas%20Tv%20.png",Pūkas TV
-http://iptvlive.stream:80/p/529629/c/53/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="GNTV" tvg-id="gntv" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Gntv%20.png",GNTV
-http://iptvlive.stream:80/p/637638/c/26/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Dzūkijos TV" tvg-id="Dzūkijos TV" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Dz%C5%ABkijos%20Tv.png",Dzūkijos TV
-http://iptvlive.stream:80/p/119409/c/18/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Tavo TV" tvg-id="EPG N/A" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Tavo%20Tv.png",Tavo TV
-http://iptvlive.stream:80/p/618688/c/130/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Šiaulių Televizija" tvg-id="id N/A" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%C5%A0iauli%C5%B3%20Televizija.png",Šiaulių Televizija
-http://iptvlive.stream:80/p/591779/c/68/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Seimas tiesiogiai" tvg-id="seimas-tiesiogiai" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Seimas%20Tiesiogiai.png",Seimas tiesiogiai
-http://iptvlive.stream:80/p/728260/c/10/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Žvaigždė" tvg-id="Žvaigždė" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%C5%BDvaig%C5%BEd%C4%97.png",Žvaigždė
-http://iptvlive.stream:80/p/591779/c/69/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="TV1000 Premium" tvg-id="tv1000-premium" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV1000%20Premium.png",TV1000 Premium
-http://iptvlive.stream:80/p/701429/c/78/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Balticum Auksinis" tvg-id="balticum-auksinis" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Balticum%20Auksinis.png",Balticum Auksinis
-http://iptvlive.stream:80/p/728260/c/174/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Balticum Platinum HD" tvg-id="balticum-platinum" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Balticum%20Platinum%20HD.png",Balticum Platinum HD
-http://iptvlive.stream:80/p/753744/c/3/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="FilmZone" tvg-id="filmzone-lt" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Filmzone.png",FilmZone
-http://iptvlive.stream:80/p/641003/c/60/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="FilmZone + HD" tvg-id="filmzone-plus-lt" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Filmzone%20%2B%20HD.png",FilmZone + HD
-http://iptvlive.stream:80/p/641003/c/15/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="TV 1000" tvg-id="tv1000" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV%201000.png",TV 1000
-http://iptvlive.stream:80/p/641003/c/52/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="TV 1000 Action" tvg-id="tv1000-action" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV%201000%20Action.png",TV 1000 Action
-http://iptvlive.stream:80/p/641003/c/34/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="TV 1000 Русское кино" tvg-id="tv1000-russkoe-kino" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV1000%20Russkoe%20Kino.png",TV 1000 Русское кино
-http://iptvlive.stream:80/p/558965/c/18/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="TV 1000 World Kino" tvg-id="tv1000-worldkino" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV%201000%20World%20Kino.png",TV 1000 World Kino
-http://iptvlive.stream:80/s/13163/c/344/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="ViP Premiere SD" tvg-id="vip-premiere" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/VIP%20Premiere%20HD.png",ViP Premiere SD
-http://iptvlive.stream:80/p/652356/c/196/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="ViP Comedy SD" tvg-id="vip-comedy" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/VIP%20Comedy%20HD.png",ViP Comedy SD
-http://iptvlive.stream:80/p/652353/c/198/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="ViP Megahit SD" tvg-id="vip-megahit" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/VIP%20Megahit%20HD.png",ViP Megahit SD
-http://iptvlive.stream:80/p/652356/c/197/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Кинохит" tvg-id="kinoxit" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D0%B8%D0%BD%D0%BE%D1%85%D0%B8%D1%82.png",Кинохит
-http://iptvlive.stream:80/p/793117/c/8/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Киномикс" tvg-id="kinomiks" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D1%81.png",Киномикс
-http://iptvlive.stream:80/p/784722/c/75/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Кинокомедия" tvg-id="kinokomedia" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BA%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F.png",Кинокомедия
-http://iptvlive.stream:80/p/736229/c/67/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Кинопремьера HD" tvg-id="kinopremiera-hd" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BF%D1%80%D0%B5%D0%BC%D1%8C%D0%B5%D1%80%D0%B0%20HD.png",Кинопремьера HD
-http://iptvlive.stream:80/s/13163/c/59/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Киносвидание" tvg-id="kinosvidanie" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D0%B8%D0%BD%D0%BE%D1%81%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.png",Киносвидание
-http://iptvlive.stream:80/p/792189/c/84/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Киносемья" tvg-id="kinosemiya" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D0%B8%D0%BD%D0%BE%D1%81%D0%B5%D0%BC%D1%8C%D1%8F.png",Киносемья
-http://iptvlive.stream:80/p/792189/c/88/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Kinoman HD" tvg-id="EPG N/A" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Kinoman%20HD.png",Kinoman HD
-http://iptvlive.stream:80/p/561323/c/39/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Кинопоказ 1 HD" tvg-id="kinopokaz-hd1" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%201%20HD.png",Кинопоказ 1 HD
-http://iptvlive.stream:80/s/13163/c/121/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Кинопоказ 2 HD" tvg-id="kinopokaz-hd2" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%202%20HD.png",Кинопоказ 2 HD
-http://iptvlive.stream:80/s/13163/c/122/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Hollywood" tvg-id="hollywood" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Hollywood.png",Hollywood
-http://iptvlive.stream:80/p/570039/c/137/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Hollywood HD" tvg-id="hollywood-hd" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Hollywood%20HD.png",Hollywood HD
-http://iptvlive.stream:80/p/579554/c/130/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Paramount Channel" tvg-id="paramount-channel" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Paramount%20Channel%20HD.png",Paramount Channel
-http://iptvlive.stream:80/p/570039/c/36/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Остросюжетное HD" tvg-id="ostrosiuzhetnoe-hd" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D1%81%D1%8E%D0%B6%D0%B5%D1%82%D0%BD%D0%BE%D0%B5%20HD.png",Остросюжетное HD
-http://iptvlive.stream:80/s/13163/c/60/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Кино ТВ" tvg-id="kino-tv" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D0%B8%D0%BD%D0%BE%20%D0%A2%D0%92.png",Кино ТВ
-http://iptvlive.stream:80/s/13163/c/123/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="TV XXI (TV21)" tvg-id="tvxxi" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV%20XXI%20(Tv21).png",TV XXI (TV21)
-http://iptvlive.stream:80/p/497159/c/50/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Кинопоказ" tvg-id="kinopokaz" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7.png",Кинопоказ
-http://iptvlive.stream:80/p/561921/c/42/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="FilmBox" tvg-id="filmbox-ru" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/FilmBox.png",FilmBox
-http://iptvlive.stream:80/s/13163/c/452/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="FilmBox Arthouse" tvg-id="filmbox-arthouse" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Filmbox%20Arthouse.png",FilmBox Arthouse
-http://iptvlive.stream:80/p/672324/c/174/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Filmbox Baltic" tvg-id="Filmbox Baltic" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Filmbox%20Baltic.png",Filmbox Baltic
-http://iptvlive.stream:80/p/618688/c/185/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Наше любимое кино" tvg-id="nashe-lubimoe" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9D%D0%B0%D1%88%D0%B5%20%D0%BB%D1%8E%D0%B1%D0%B8%D0%BC%D0%BE%D0%B5%20%D0%BA%D0%B8%D0%BD%D0%BE.png",Наше любимое кино
-http://iptvlive.stream:80/p/573542/c/36/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Дом кино" tvg-id="domkino" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%94%D0%BE%D0%BC%20%D0%BA%D0%B8%D0%BD%D0%BE.png",Дом кино
-http://iptvlive.stream:80/p/579554/c/128/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Иллюзион+" tvg-id="illuzion-plus" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%98%D0%BB%D0%BB%D1%8E%D0%B7%D0%B8%D0%BE%D0%BD%2B.png",Иллюзион+
-http://iptvlive.stream:80/p/561921/c/69/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Родное кино" tvg-id="rodnoe-kino" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%A0%D0%9E%D0%94%D0%9D%D0%9E%D0%95%20%D0%9A%D0%98%D0%9D%D0%9E.png",Родное кино
-http://iptvlive.stream:80/p/579554/c/96/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Еврокино" tvg-id="evrokino" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%95%D0%B2%D1%80%D0%BE%D0%BA%D0%B8%D0%BD%D0%BE.png",Еврокино
-http://iptvlive.stream:80/p/570039/c/149/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Kino 24" tvg-id="kino-24" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Kino%2024.png",Kino 24
-http://iptvlive.stream:80/p/591779/c/376/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="TV1000 Premium HD" tvg-id="tv1000-premium" group-title="Filmai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV1000%20Premium.png",TV1000 Premium HD
-http://iptvlive.stream:80/p/641003/c/19/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="TV 1000 HD" tvg-id="tv1000" group-title="Filmai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV%201000.png",TV 1000 HD
-http://iptvlive.stream:80/p/736229/c/8/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="TV 1000 Action HD" tvg-id="tv1000-action" group-title="Filmai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV%201000%20Action.png",TV 1000 Action HD
-http://iptvlive.stream:80/p/743699/c/15/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="ViP Premiere HD" tvg-id="vip-premiere" group-title="Filmai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/VIP%20Premiere%20HD.png",ViP Premiere HD
-http://iptvlive.stream:80/p/561921/c/65/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="ViP Comedy HD" tvg-id="vip-comedy" group-title="Filmai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/VIP%20Comedy%20HD.png",ViP Comedy HD
-http://iptvlive.stream:80/p/561921/c/63/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="ViP Megahit HD" tvg-id="vip-megahit" group-title="Filmai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/VIP%20Megahit%20HD.png",ViP Megahit HD
-http://iptvlive.stream:80/p/561921/c/64/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Кинохит HD" tvg-id="kinoxit" group-title="Filmai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D0%B8%D0%BD%D0%BE%D1%85%D0%B8%D1%82.png",Кинохит HD
-http://iptvlive.stream:80/p/736229/c/231/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Киномикс HD" tvg-id="kinomiks" group-title="Filmai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D1%81.png",Киномикс HD
-http://iptvlive.stream:80/p/736229/c/150/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Киносвидание HD" tvg-id="kinosvidanie" group-title="Filmai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D0%B8%D0%BD%D0%BE%D1%81%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.png",Киносвидание HD
-http://iptvlive.stream:80/p/736229/c/227/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Киносемья HD" tvg-id="kinosemiya" group-title="Filmai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D0%B8%D0%BD%D0%BE%D1%81%D0%B5%D0%BC%D1%8C%D1%8F.png",Киносемья HD
-http://iptvlive.stream:80/p/736229/c/26/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Дом кино Премиум HD" tvg-id="domkino-premium" group-title="Filmai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%94%D0%BE%D0%BC%20%D0%BA%D0%B8%D0%BD%D0%BE%20%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%20HD.png",Дом кино Премиум HD
-http://iptvlive.stream:80/p/579554/c/129/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Epic Drama HD" tvg-id="epik-drama" group-title="Serialai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Epic%20Drama%20HD.png",Epic Drama HD
-http://iptvlive.stream:80/p/641003/c/17/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="ViP Serial HD" tvg-id="vip-serial" group-title="Serialai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/ViP%20Serial%20HD.png",ViP Serial HD
-http://iptvlive.stream:80/p/736229/c/71/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Киносерия" tvg-id="kinoseria" group-title="Serialai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D0%B8%D0%BD%D0%BE%D1%81%D0%B5%D1%80%D0%B8%D1%8F.png",Киносерия
-http://iptvlive.stream:80/p/573542/c/117/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Fox" tvg-id="fox" group-title="Serialai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Fox.png",Fox
-http://iptvlive.stream:80/p/579554/c/115/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Fox HD" tvg-id="fox" group-title="Serialai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Fox%20HD.png",Fox HD
-http://iptvlive.stream:80/p/570039/c/130/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Fox Life" tvg-id="foxlife" group-title="Serialai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Fox%20Life.png",Fox Life
-http://iptvlive.stream:80/p/579554/c/114/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Amedia 1" tvg-id="amedia1" group-title="Serialai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Amedia%201.png",Amedia 1
-http://iptvlive.stream:80/p/579554/c/107/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Amedia 2" tvg-id="amedia2" group-title="Serialai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Amedia%202.png",Amedia 2
-http://iptvlive.stream:80/p/579554/c/222/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Amedia Hit" tvg-id="amedia-hit" group-title="Serialai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Amedia%20Hit.png",Amedia Hit
-http://iptvlive.stream:80/p/570039/c/140/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Amedia Premium" tvg-id="amedia-premium" group-title="Serialai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Amedia%20Premium.png",Amedia Premium
-http://iptvlive.stream:80/p/579554/c/106/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Sony Turbo" tvg-id="sony-turbo" group-title="Serialai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Sony%20Turbo.png",Sony Turbo
-http://iptvlive.stream:80/p/579554/c/117/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="SET" tvg-id="sony-tv" group-title="Serialai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Set.png",SET
-http://iptvlive.stream:80/p/579554/c/116/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Sony Sci-Fi" tvg-id="sony-scifi" group-title="Serialai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Sony%20Sci-Fi.png",Sony Sci-Fi
-http://iptvlive.stream:80/p/376565/c/240/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Amedia Hit HD" tvg-id="amedia-hit" group-title="Serialai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Amedia%20Hit%20HD.png",Amedia Hit HD
-http://iptvlive.stream:80/p/567053/c/47/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Viasat Explore" tvg-id="viasat-explore" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Viasat%20Explore.png",Viasat Explore
-http://iptvlive.stream:80/p/641003/c/26/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Viasat History" tvg-id="viasat-history" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Viasat%20History.png",Viasat History
-http://iptvlive.stream:80/p/641003/c/27/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Discovery Channel" tvg-id="discovery-channel" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Discovery%20Channel.png",Discovery Channel
-http://iptvlive.stream:80/p/683813/c/256/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Discovery Science" tvg-id="discovery-science" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Discovery%20Science.png",Discovery Science
-http://iptvlive.stream:80/p/683813/c/258/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="National Geographic" tvg-id="national-geographic" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/National%20Geographic.png",National Geographic
-http://iptvlive.stream:80/p/683813/c/50/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Travel Channel" tvg-id="travel-channel" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Travel%20Channel.png",Travel Channel
-http://iptvlive.stream:80/p/753744/c/38/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Travel + Adventure" tvg-id="travel-adventure" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Travel%20%2B%20Adventure.png",Travel + Adventure
-http://iptvlive.stream:80/p/570039/c/20/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Viasat Nature History HD" tvg-id="viasat-nature-history-hd" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Viasat%20Nature%20History%20HD.png",Viasat Nature History HD
-http://iptvlive.stream:80/p/748120/c/175/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="History Channel" tvg-id="history" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/History%20Channel.png",History Channel
-http://iptvlive.stream:80/p/683813/c/261/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="DocuBox HD" tvg-id="docubox-hd" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Docubox%20HD.png",DocuBox HD
-http://iptvlive.stream:80/p/683813/c/259/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Fast&Fun Box HD" tvg-id="fastfunbox-hd" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Fast%26Fun%20Box%20HD.png",Fast&Fun Box HD
-http://iptvlive.stream:80/p/637638/c/20/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Investigation Discovery" tvg-id="id-xtra-ru" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Investigation%20Discovery.png",Investigation Discovery
-http://iptvlive.stream:80/p/584333/c/66/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="RTG TV" tvg-id="rtg" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/RTG%20Tv.png",RTG TV
-http://iptvlive.stream:80/p/685560/c/191/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="RTG int" tvg-id="rtg-int" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/RTG%20Int.png",RTG int
-http://iptvlive.stream:80/p/434931/c/12/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="CBS Reality" tvg-id="cbs-reality" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/CBS%20Reality.png",CBS Reality
-http://iptvlive.stream:80/p/683813/c/154/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="DTX HD" tvg-id="dtx" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/DTX.png",DTX HD
-http://iptvlive.stream:80/p/685560/c/80/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Viasat Nature" tvg-id="viasat-nature" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Viasat%20Nature.png",Viasat Nature
-http://iptvlive.stream:80/p/683813/c/149/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Animal Planet" tvg-id="animal-planet" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Animal%20Planet.png",Animal Planet
-http://iptvlive.stream:80/p/753744/c/62/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Nat Geo Wild" tvg-id="nat-geo-wild" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Nat%20Geo%20Wild.png",Nat Geo Wild
-http://iptvlive.stream:80/p/748479/c/16/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="TLC" tvg-id="tlc" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TLC.png",TLC
-http://iptvlive.stream:80/p/753744/c/44/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Da Vinci Learning" tvg-id="da-vinci" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Da%20Vinci%20Learning.png",Da Vinci Learning
-http://iptvlive.stream:80/p/573542/c/165/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Discovery Showcase HD" tvg-id="discovery-hd-showcase" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Discovery%20Showcase%20HD.png",Discovery Showcase HD
-http://iptvlive.stream:80/p/728260/c/36/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Телепутешествия" tvg-id="teleputeshestvia" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BF%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D1%8F.png",Телепутешествия
-http://iptvlive.stream:80/p/573542/c/33/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Усадьба ТВ" tvg-id="usadba" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%A3%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%D0%A2%D0%92.png",Усадьба ТВ
-http://iptvlive.stream:80/p/573542/c/110/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Fine Living" tvg-id="fine-living" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Fine%20Living.png",Fine Living
-http://iptvlive.stream:80/p/570039/c/52/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Большая Азия" tvg-id="bolshaya-azia" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%90%D0%B7%D0%B8%D1%8F.png",Большая Азия
-http://iptvlive.stream:80/p/685473/c/169/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="TVPlay Sports" tvg-id="tvplay-sports" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TVplay%20Sports.png",TVPlay Sports
-http://iptvlive.stream:80/p/688006/c/9/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="TVPlay Sports HD" tvg-id="tvplay-sports" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TVplay%20Sports%20HD.png",TVPlay Sports HD
-http://iptvlive.stream:80/p/641003/c/62/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="TVPlay Sports+" tvg-id="tvplay-sports-plus" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TVplay%20Sports%2B.png",TVPlay Sports+
-http://iptvlive.stream:80/p/766293/c/1/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="TVPlay Sports+ HD" tvg-id="tvplay-sports-plus" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TVplay%20Sports%2B%20HD.png",TVPlay Sports+ HD
-http://iptvlive.stream:80/p/641003/c/63/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Sport 1" tvg-id="sport1-lt" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Sport%201.png",Sport 1
-http://iptvlive.stream:80/p/637638/c/65/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Sport 1 HD" tvg-id="sport1-lt" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Sport%201%20HD.png",Sport 1 HD
-http://iptvlive.stream:80/p/637638/c/66/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Viasat Sport" tvg-id="viasat-sport" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Viasat%20Sport.png",Viasat Sport
-http://iptvlive.stream:80/p/729607/c/11/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Viasat Sport HD" tvg-id="viasat-sport" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Viasat%20Sport%20HD.png",Viasat Sport HD
-http://iptvlive.stream:80/p/748121/c/295/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Eurosport 1" tvg-id="eurosport1" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Eurosport%201.png",Eurosport 1
-http://iptvlive.stream:80/p/119409/c/133/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Eurosport 2" tvg-id="eurosport2" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Eurosport2.png",Eurosport 2
-http://iptvlive.stream:80/p/119409/c/22/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Eurosport 1 HD" tvg-id="eurosport1" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Eurosport%201%20HD.png",Eurosport 1 HD
-http://iptvlive.stream:80/p/762479/c/17/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Eurosport 2 HD" tvg-id="eurosport2" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Eurosport%202%20HD.png",Eurosport 2 HD
-http://iptvlive.stream:80/p/683813/c/317/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Extreme Sports" tvg-id="extreme-sports" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Extreme%20Sports.png",Extreme Sports
-http://iptvlive.stream:80/p/119409/c/23/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Setanta Sports HD" tvg-id="setanta-sports" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Setanta%20Sports%20HD.png",Setanta Sports HD
-http://iptvlive.stream:80/p/683813/c/314/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Матч ТВ HD" tvg-id="match-tv" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9C%D0%B0%D1%82%D1%87%20%D0%A2%D0%92%20HD.png",Матч ТВ HD
-http://iptvlive.stream:80/p/748121/c/169/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Матч! Арена HD" tvg-id="match-arena" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%90%D1%80%D0%B5%D0%BD%D0%B0%20HD.png",Матч! Арена HD
-http://iptvlive.stream:80/p/753744/c/43/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Матч! Игра HD" tvg-id="match-igra" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%98%D0%B3%D1%80%D0%B0%20HD.png",Матч! Игра HD
-http://iptvlive.stream:80/p/748121/c/173/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Матч! Футбол 1 HD" tvg-id="match-football1" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%201%20HD.png",Матч! Футбол 1 HD
-http://iptvlive.stream:80/p/748121/c/117/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Матч! Футбол 2 HD" tvg-id="match-football2" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%202%20HD.png",Матч! Футбол 2 HD
-http://iptvlive.stream:80/p/748121/c/107/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Матч! Футбол 3 HD" tvg-id="match-football3" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%203%20HD.png",Матч! Футбол 3 HD
-http://iptvlive.stream:80/p/748121/c/142/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Матч! премьер HD" tvg-id="match-premier" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%BF%D1%80%D0%B5%D0%BC%D1%8C%D0%B5%D1%80%20HD.png",Матч! премьер HD
-http://iptvlive.stream:80/p/748121/c/46/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="МАТЧ! Страна" tvg-id="match-nash-sport" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9C%D0%90%D0%A2%D0%A7!%20%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B0.png",МАТЧ! Страна
-http://iptvlive.stream:80/p/748479/c/119/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="NBA TV HD" tvg-id="nba-tv" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/NBA%20TV%20HD.png",NBA TV HD
-http://iptvlive.stream:80/p/618688/c/95/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Sony ESPN HD" tvg-id="EPG N/A" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Sony%20Espn%20HD.png",Sony ESPN HD
-http://iptvlive.stream:80/p/527155/c/10/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="BT Sport 1 HD" tvg-id="bt-sport1" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/BT%20Sport%201%20HD.png",BT Sport 1 HD
-http://iptvlive.stream:80/p/713759/c/66/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="BT Sport 2 HD" tvg-id="bt-sport2" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/BT%20Sport%202%20HD.png",BT Sport 2 HD
-http://iptvlive.stream:80/p/651740/c/121/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="BT Sport 3 HD" tvg-id="bt-sport3" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/BT%20Sport%203%20HD.png",BT Sport 3 HD
-http://iptvlive.stream:80/p/618688/c/165/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Main Event HD" tvg-id="sky-sport-hd1" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Sky%20Sports%20Main%20Event%20HD.png",Sky Sports Main Event HD
-http://iptvlive.stream:80/p/651740/c/106/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Cricket HD" tvg-id="sky-sport-hd2" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Sky%20Sports%20Cricket%20HD.png",Sky Sports Cricket HD
-http://iptvlive.stream:80/p/618688/c/122/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Premier League HD" tvg-id="sky-sport-hd5" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Sky%20Sports%20Premier%20League%20HD.png",Sky Sports Premier League HD
-http://iptvlive.stream:80/p/579606/c/29/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Mix HD" tvg-id="sky-sport-hd4" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Sky%20Sports%20Mix%20HD.png",Sky Sports Mix HD
-http://iptvlive.stream:80/p/579606/c/30/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Sky Sports F1 HD" tvg-id="sky-sports-f1" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Sky%20Sports%20F1%20HD.png",Sky Sports F1 HD
-http://iptvlive.stream:80/p/517146/c/72/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Football HD" tvg-id="sky-sports-football" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Sky%20Sports%20Football%20HD.png",Sky Sports Football HD
-http://iptvlive.stream:80/p/594096/c/6/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="SKY Sports Arena HD" tvg-id="sky-sports-arena" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Sky%20Sports%20Arena%20HD.png",SKY Sports Arena HD
-http://iptvlive.stream:80/p/594096/c/4/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="RMC Sport 1 HD" tvg-id="RMC Sport 1" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/RMC%20Sport%201%20HD.png",RMC Sport 1 HD
-http://iptvlive.stream:80/p/656155/c/34/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="RMC Sport 2 HD" tvg-id="RMC Sport 2" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/RMC%20Sport%202%20HD.png",RMC Sport 2 HD
-http://iptvlive.stream:80/p/656155/c/35/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="RMC Sport 3 HD" tvg-id="RMC Sport 3" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/RMC%20Sport%203%20HD.png",RMC Sport 3 HD
-http://iptvlive.stream:80/p/656155/c/36/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="RMC Sport 4 HD" tvg-id="RMC Sport 4" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/RMC%20Sport%204%20HD.png",RMC Sport 4 HD
-http://iptvlive.stream:80/p/656155/c/37/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="ESPN News HD" tvg-id="ESPN News" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/ESPN%20News%20HD.png",ESPN News HD
-http://iptvlive.stream:80/s/13163/c/1641/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="ESPN 1 HD" tvg-id="ESPN" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/ESPN%201%20HD.png",ESPN 1 HD
-http://iptvlive.stream:80/s/13163/c/1044/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="ESPN 2 HD" tvg-id="ESPN2" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/ESPN%202%20HD.png",ESPN 2 HD
-http://iptvlive.stream:80/s/13163/c/1045/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="ESPN 3 HD" tvg-id="EPG N/A" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/ESPN%203%20HD.png",ESPN 3 HD
-http://iptvlive.stream:80/s/13163/c/1640/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 #EXTINF:-1 tvg-name="Euronews" tvg-id="euronews" group-title="Žinios" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Euronews.png",Euronews
-http://iptvlive.stream:80/p/641003/c/55/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/846868/c/142/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw
+#EXTINF:-1 tvg-name="Info TV" tvg-id="info-tv" group-title="Žinios" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Info%20TV.png",Info TV
+http://84.32.13.62:8080/info_tv/index.m3u8
 #EXTINF:-1 tvg-name="Euronews en HD" tvg-id="euronews" group-title="Žinios" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Euronews.png",Euronews en HD
-http://iptvlive.stream:80/p/637638/c/16/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/637638/c/16/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
 #EXTINF:-1 tvg-name="CNN International" tvg-id="cnn" group-title="Žinios" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/CNN%20International.png",CNN International
-http://iptvlive.stream:80/p/643879/c/14/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+http://cdn.iptv.monster/play/104/4BBA04E10F1CBF4/video.m3u8
 #EXTINF:-1 tvg-name="BBC World News" tvg-id="bbc" group-title="Žinios" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/BBC%20World%20News.png",BBC World News
-http://iptvlive.stream:80/p/685539/c/64/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://cdn.iptv.monster/play/105/4BBA04E10F1CBF4/video.m3u8
 #EXTINF:-1 tvg-name="Sky News" tvg-id="Sky News" group-title="Žinios" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Sky%20News.png",Sky News
-http://iptvlive.stream:80/p/683813/c/486/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/784819/c/486/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera English" tvg-id="al-jazeera-int" group-title="Žinios" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Al%20Jazeera%20English.png",Al Jazeera English
-http://iptvlive.stream:80/p/663250/c/205/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/663250/c/205/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
+#EXTINF:-1 tvg-name="LRT Televizija" tvg-id="lrt-tv" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Televizija.png",LRT Televizija
+http://84.32.13.62:8080/lrt_tv/index.m3u8
+#EXTINF:-1 tvg-name="LRT Plius" tvg-id="lrt-kultura" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Plius%20HD.png",LRT Plius
+http://84.32.13.62:8080/lrt_kultura/index.m3u8
+#EXTINF:-1 tvg-name="LRT Lituanica" tvg-id="lrt-lituanica" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Lituanica.png",LRT Lituanica
+http://88.119.220.3/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania-mp4a_96000_lit=15-avc1_2200000=13.m3u8
+#EXTINF:-1 tvg-name="TV3" tvg-id="tv3-lt" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3.png",TV3
+http://84.32.13.62:8080/tv3/index.m3u8
+#EXTINF:-1 tvg-name="LNK" tvg-id="lnk" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LNK.png",LNK
+http://84.32.13.62:8080/lnk/index.m3u8
+#EXTINF:-1 tvg-name="TV6" tvg-id="tv6-lt" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV6.png",TV6
+http://84.32.13.62:8080/tv6/index.m3u8
+#EXTINF:-1 tvg-name="TV1" tvg-id="tv1-lt" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV1.png",TV1
+http://84.32.13.62:8080/tv1/index.m3u8
+#EXTINF:-1 tvg-name="BTV" tvg-id="btv" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/BTV.png",BTV
+http://84.32.13.62:8080/btv/index.m3u8
+#EXTINF:-1 tvg-name="Balticum TV" tvg-id="balticum-tv" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Balticum%20TV.png",Balticum TV
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBaltikumtv&login=taras777&key=3pp54ZC
+#EXTINF:-1 tvg-name="Info TV" tvg-id="info-tv" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Info%20TV.png",Info TV
+http://84.32.13.62:8080/info_tv/index.m3u8
+#EXTINF:-1 tvg-name="Lietuvos rytas TV" tvg-id="lietuvos-ryto-televizija" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Lietuvos%20Rytas%20TV.png",Lietuvos rytas TV
+http://84.32.13.62:8080/lietuvos_ryto_tv/index.m3u8
+#EXTINF:-1 tvg-name="TV8" tvg-id="tv8-lt" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV8.png",TV8
+http://84.32.13.62:8080/tv8/index.m3u8
+#EXTINF:-1 tvg-name="LIUKS!" tvg-id="liuks" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Liuks!.png",LIUKS!
+http://84.32.13.62:8080/liuks/index.m3u8
+#EXTINF:-1 tvg-name="INIT TV" tvg-id="init-tv" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Init%20TV.png",INIT TV
+http://iptvlive.stream:80/p/838786/c/138/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
+#EXTINF:-1 tvg-name="INIT Ekstra TV" tvg-id="init-extra-tv" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Init%20EkstraTV.png",INIT Ekstra TV
+http://iptvlive.stream:80/p/591779/c/64/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw
+#EXTINF:-1 tvg-name="TV7" tvg-id="TV 7" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV7.png",TV7
+http://iptvlive.stream:80/p/637638/c/78/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
+#EXTINF:-1 tvg-name="PlayTV" tvg-id="playtv" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/PlayTV.png",PlayTV
+http://iptvlive.stream:80/p/591779/c/351/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw
+#EXTINF:-1 tvg-name="Pūkas TV" tvg-id="pukas-tv" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/P%C5%ABkas%20Tv%20.png",Pūkas TV
+http://iptvlive.stream:80/p/529629/c/53/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
+#EXTINF:-1 tvg-name="GNTV" tvg-id="GNTV" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Gntv%20.png",GNTV
+http://iptvlive.stream:80/p/452365/c/138/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
+#EXTINF:-1 tvg-name="Dzūkijos TV" tvg-id="Dzūkijos TV" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Dz%C5%ABkijos%20Tv.png",Dzūkijos TV
+http://iptvlive.stream:80/p/119409/c/18/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw
+#EXTINF:-1 tvg-name="Tavo TV" tvg-id="EPG N/A" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Tavo%20Tv.png",Tavo TV
+http://iptvlive.stream:80/s/13528/c/2439/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
+#EXTINF:-1 tvg-name="Šiaulių Televizija" tvg-id="id N/A" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%C5%A0iauli%C5%B3%20Televizija.png",Šiaulių Televizija
+http://88.216.81.190/siauliu_tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Seimas tiesiogiai" tvg-id="seimas-tiesiogiai" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Seimas%20Tiesiogiai.png",Seimas tiesiogiai
+http://iptvlive.stream:80/p/452365/c/136/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
+#EXTINF:-1 tvg-name="Žvaigždė" tvg-id="Žvaigždė" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%C5%BDvaig%C5%BEd%C4%97.png",Žvaigždė
+http://88.216.81.190/zvaigzde/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="TV3 Film" tvg-id="tv1000-premium" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%20Film.png",TV3 Film
+https://cdn2.tvplayhome.lt/live/eds/TV1000PremiumSD/HLS_encr/TV1000PremiumSD-mp4a_96000_lit=1-avc1_2200000=16.m3u8
+#EXTINF:-1 tvg-name="Balticum Auksinis" tvg-id="balt-auks" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Balticum%20Auksinis.png",Balticum Auksinis
+http://84.32.13.62:8080/balticum_auksinis/index.m3u8
+#EXTINF:-1 tvg-name="FilmZone" tvg-id="filmzone-lt" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Filmzone.png",FilmZone
+http://84.32.13.62:8080/filmzone_hd/index.m3u8
+#EXTINF:-1 tvg-name="FilmZone + HD" tvg-id="filmzone-plus-lt" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Filmzone%20%2B%20HD.png",FilmZone + HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FFilmzoneplusHD&login=taras777&key=3pp54ZC
+#EXTINF:-1 tvg-name="Epic Drama HD" tvg-id="epik-drama" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Epic%20Drama%20HD.png",Epic Drama HD
+http://cdn5.tvplayhome.lt/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-mp4a_96000_lit=21-avc1_5000000=15.m3u8
+#EXTINF:-1 tvg-name="Дом кино" tvg-id="domkino" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%94%D0%BE%D0%BC%20%D0%BA%D0%B8%D0%BD%D0%BE.png",Дом кино
+http://84.32.13.62:8080/dom_kino/index.m3u8
+#EXTINF:-1 tvg-name="TV 1000" tvg-id="TV1000" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV%201000.png",TV 1000
+http://cdn.iptv.monster/play/82/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="TV 1000 Action" tvg-id="TV1000 Action" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV%201000%20Action.png",TV 1000 Action
+http://cdn.iptv.monster/play/83/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="TV 1000 Русское кино" tvg-id="TV1000 Kino" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV1000%20Russkoe%20Kino.png",TV 1000 Русское кино
+http://cdn.iptv.monster/play/81/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="TV 1000 World Kino" tvg-id="tv1000-worldkino" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV%201000%20World%20Kino.png",TV 1000 World Kino
+http://cdn.iptv.monster/play/9987/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="ViP Premiere HD" tvg-id="vip-premiere" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/VIP%20Premiere%20HD.png",ViP Premiere HD
+http://cdn.iptv.monster/play/196/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="ViP Comedy HD" tvg-id="vip-comedy" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/VIP%20Comedy%20HD.png",ViP Comedy HD
+http://cdn.iptv.monster/play/194/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="ViP Megahit HD" tvg-id="vip-megahit" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/VIP%20Megahit%20HD.png",ViP Megahit HD
+http://cdn.iptv.monster/play/195/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Кинохит" tvg-id="kinoxit" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D0%B8%D0%BD%D0%BE%D1%85%D0%B8%D1%82.png",Кинохит
+http://cdn.iptv.monster/play/33/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Киномикс" tvg-id="kinomiks" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D1%81.png",Киномикс
+http://cdn.iptv.monster/play/167/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Кинокомедия" tvg-id="kinokomedia" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BA%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F.png",Кинокомедия
+http://cdn.iptv.monster/play/3738/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Кинопремьера" tvg-id="kinopremiera-hd" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BF%D1%80%D0%B5%D0%BC%D1%8C%D0%B5%D1%80%D0%B0%20HD.png",Кинопремьера
+http://cdn.iptv.monster/play/183/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Киносвидание" tvg-id="kinosvidanie" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D0%B8%D0%BD%D0%BE%D1%81%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.png",Киносвидание
+http://cdn.iptv.monster/play/11/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Киносемья" tvg-id="kinosemiya" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D0%B8%D0%BD%D0%BE%D1%81%D0%B5%D0%BC%D1%8C%D1%8F.png",Киносемья
+http://cdn.iptv.monster/play/13/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Мужское кино" tvg-id="muzhskoe-kino" group-title="Filmai" tvg-logo="https://iptv.live/ru/images/logo/channel/crops/fd6b1a231c07d09db037f37f18e9d295.png",Мужское кино
+http://cdn.iptv.monster/play/209/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Кино Премиум HD" tvg-id="kinopremium-hd" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D0%B8%D0%BD%D0%BE%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%20HD.png",Кино Премиум HD
+http://cdn.iptv.monster/play/367/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Комедийное HD" tvg-id="kinopokaz-hd2" group-title="Filmai" tvg-logo="https://iptvx.one/icn/komedijnoe.png",Комедийное HD
+http://cdn.iptv.monster/play/138/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Шокирующее HD" tvg-id="kinopokaz-hd1" group-title="Filmai" tvg-logo="https://iptv.live/ru/images/logo/channel/crops/c9f747cd259bd7bf3a3fd64d43ccbaf7.png",Шокирующее HD
+http://cdn.iptv.monster/play/137/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Остросюжетное HD" tvg-id="ostrosiuzhetnoe-hd" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D1%81%D1%8E%D0%B6%D0%B5%D1%82%D0%BD%D0%BE%D0%B5%20HD.png",Остросюжетное HD
+http://cdn.iptv.monster/play/368/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Страшное HD" tvg-id="strashnoe-hd" group-title="Filmai" tvg-logo="https://tv-only.org/uploads/posts/2016-10/1475956030_strahd.png",Страшное HD
+http://cdn.iptv.monster/play/371/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Hollywood" tvg-id="hollywood" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Hollywood.png",Hollywood
+http://iptvlive.stream:80/s/19127/c/1709/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw
+#EXTINF:-1 tvg-name="Hollywood HD" tvg-id="hollywood-hd" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Hollywood%20HD.png",Hollywood HD
+http://cdn.iptv.monster/play/176/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Spike" tvg-id="spike" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Spike.png",Spike
+http://cdn.iptv.monster/play/9986/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="AMC" tvg-id="amc" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/AMC.png",AMC
+http://iptvlive.stream:80/s/19127/c/177/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw
+#EXTINF:-1 tvg-name="Kinoman HD" tvg-id="EPG N/A" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Kinoman%20HD.png",Kinoman HD
+http://iptvlive.stream:80/p/561323/c/39/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw
+#EXTINF:-1 tvg-name="Paramount Channel" tvg-id="paramount-channel" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Paramount%20Channel%20HD.png",Paramount Channel
+http://cdn.iptv.monster/play/383/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Кино ТВ HD" tvg-id="kino-tv" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D0%B8%D0%BD%D0%BE%20%D0%A2%D0%92.png",Кино ТВ HD
+http://cdn.iptv.monster/play/381/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="TV XXI (TV21)" tvg-id="tvxxi" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV%20XXI%20(Tv21).png",TV XXI (TV21)
+http://cdn.iptv.monster/play/84/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Кинопоказ" tvg-id="kinopokaz" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7.png",Кинопоказ
+http://cdn.iptv.monster/play/129/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Еврокино" tvg-id="evrokino" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%95%D0%B2%D1%80%D0%BE%D0%BA%D0%B8%D0%BD%D0%BE.png",Еврокино
+http://cdn.iptv.monster/play/96/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="FilmBox" tvg-id="filmbox-ru" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/FilmBox.png",FilmBox
+http://iptvlive.stream:80/p/814237/c/66/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw
+#EXTINF:-1 tvg-name="FilmBox Arthouse" tvg-id="filmbox-arthouse" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Filmbox%20Arthouse.png",FilmBox Arthouse
+http://iptvlive.stream:80/s/19127/c/1261/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw
+#EXTINF:-1 tvg-name="Filmbox Baltic" tvg-id="Filmbox Baltic" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Filmbox%20Baltic.png",Filmbox Baltic
+http://iptvlive.stream:80/p/838786/c/104/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
+#EXTINF:-1 tvg-name="Любимое кино" tvg-id="nashe-lubimoe" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9D%D0%B0%D1%88%D0%B5%20%D0%BB%D1%8E%D0%B1%D0%B8%D0%BC%D0%BE%D0%B5%20%D0%BA%D0%B8%D0%BD%D0%BE.png",Любимое кино
+http://cdn.iptv.monster/play/499/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Иллюзион+" tvg-id="illuzion-plus" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%98%D0%BB%D0%BB%D1%8E%D0%B7%D0%B8%D0%BE%D0%BD%2B.png",Иллюзион+
+http://cdn.iptv.monster/play/202/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Родное кино" tvg-id="rodnoe-kino" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%A0%D0%9E%D0%94%D0%9D%D0%9E%D0%95%20%D0%9A%D0%98%D0%9D%D0%9E.png",Родное кино
+http://cdn.iptv.monster/play/12/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Epic Drama HD" tvg-id="epik-drama" group-title="Serialai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Epic%20Drama%20HD.png",Epic Drama HD
+http://cdn5.tvplayhome.lt/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-mp4a_96000_lit=21-avc1_5000000=15.m3u8
+#EXTINF:-1 tvg-name="ViP Serial HD" tvg-id="vip-serial" group-title="Serialai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/ViP%20Serial%20HD.png",ViP Serial HD
+http://iptvlive.stream:80/p/736229/c/71/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw
+#EXTINF:-1 tvg-name="Киносерия" tvg-id="kinoseria" group-title="Serialai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D0%B8%D0%BD%D0%BE%D1%81%D0%B5%D1%80%D0%B8%D1%8F.png",Киносерия
+http://cdn.iptv.monster/play/208/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Fox" tvg-id="fox" group-title="Serialai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Fox.png",Fox
+http://cdn.iptv.monster/play/95/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Fox HD" tvg-id="fox" group-title="Serialai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Fox%20HD.png",Fox HD
+http://cdn.iptv.monster/play/178/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Fox Life" tvg-id="foxlife" group-title="Serialai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Fox%20Life.png",Fox Life
+http://cdn.iptv.monster/play/94/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Amedia 1" tvg-id="amedia1" group-title="Serialai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Amedia%201.png",Amedia 1
+http://cdn.iptv.monster/play/267/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Amedia 2 HD" tvg-id="amedia2" group-title="Serialai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Amedia%202.png",Amedia 2 HD
+http://cdn.iptv.monster/play/261/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Amedia Hit" tvg-id="amedia-hit" group-title="Serialai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Amedia%20Hit.png",Amedia Hit
+http://cdn.iptv.monster/play/632/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Amedia Premium" tvg-id="amedia-premium" group-title="Serialai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Amedia%20Premium.png",Amedia Premium
+http://cdn.iptv.monster/play/630/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Sony Turbo" tvg-id="sony-turbo" group-title="Serialai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Sony%20Turbo.png",Sony Turbo
+http://cdn.iptv.monster/play/235/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="SET" tvg-id="sony-tv" group-title="Serialai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Set.png",SET
+http://iptvlive.stream:80/p/838786/c/62/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
+#EXTINF:-1 tvg-name="Sony Sci-Fi" tvg-id="sony-scifi" group-title="Serialai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Sony%20Sci-Fi.png",Sony Sci-Fi
+http://cdn.iptv.monster/play/102/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Amedia Hit HD" tvg-id="amedia-hit" group-title="Serialai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Amedia%20Hit%20HD.png",Amedia Hit HD
+http://cdn.iptv.monster/play/632/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Viasat Explore" tvg-id="Viasat Explore Nordic" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Viasat%20Explore.png",Viasat Explore
+http://cdn.iptv.monster/play/79/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Viasat History" tvg-id="Viasat History" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Viasat%20History.png",Viasat History
+http://cdn.iptv.monster/play/78/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-id="discovery-channel" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Discovery%20Channel.png",Discovery Channel
+http://cdn.iptv.monster/play/147/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Discovery Science" tvg-id="discovery-science" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Discovery%20Science.png",Discovery Science
+http://cdn.iptv.monster/play/391/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="National Geographic" tvg-id="national-geographic" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/National%20Geographic.png",National Geographic
+http://cdn.iptv.monster/play/31/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Travel Channel" tvg-id="travel-channel" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Travel%20Channel.png",Travel Channel
+http://cdn.iptv.monster/play/190/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Travel + Adventure" tvg-id="travel-adventure" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Travel%20%2B%20Adventure.png",Travel + Adventure
+http://cdn.iptv.monster/play/180/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Viasat Nature History HD" tvg-id="viasat-nature-history-hd" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Viasat%20Nature%20History%20HD.png",Viasat Nature / History HD
+http://iptvlive.stream:80/p/748120/c/175/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
+#EXTINF:-1 tvg-name="History Channel" tvg-id="history" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/History%20Channel.png",History Channel
+http://cdn.iptv.monster/play/188/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="DocuBox" tvg-id="docubox-hd" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Docubox%20HD.png",DocuBox HD
+http://iptvlive.stream:80/p/701519/c/56/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw
+#EXTINF:-1 tvg-name="Fast&Fun Box HD" tvg-id="fastfunbox-hd" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Fast%26Fun%20Box%20HD.png",Fast&Fun Box HD
+http://iptvlive.stream:80/p/837923/c/127/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
+#EXTINF:-1 tvg-name="Viasat Nature" tvg-id="VIASAT Nature East" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Viasat%20Nature.png",Viasat Nature
+http://iptvlive.stream:80/p/452365/c/68/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw
+#EXTINF:-1 tvg-name="Animal Planet" tvg-id="animal-planet" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Animal%20Planet.png",Animal Planet
+http://cdn.iptv.monster/play/175/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Nat Geo Wild" tvg-id="nat-geo-wild" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Nat%20Geo%20Wild.png",Nat Geo Wild
+http://cdn.iptv.monster/play/162/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Investigation Discovery" tvg-id="id-xtra-ru" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Investigation%20Discovery.png",Investigation Discovery
+http://cdn.iptv.monster/play/362/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="RTG TV" tvg-id="rtg" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/RTG%20Tv.png",RTG TV
+http://cdn.iptv.monster/play/106/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="RTG int" tvg-id="rtg-int" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/RTG%20Int.png",RTG int
+http://iptvlive.stream:80/p/434931/c/12/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw
+#EXTINF:-1 tvg-name="CBS Reality" tvg-id="cbs-reality" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/CBS%20Reality.png",CBS Reality
+http://cdn.iptv.monster/play/27/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="DTX HD" tvg-id="dtx" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/DTX.png",DTX HD
+http://cdn.iptv.monster/play/25/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="TLC" tvg-id="tlc" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TLC.png",TLC
+http://cdn.iptv.monster/play/189/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Da Vinci Learning" tvg-id="da-vinci" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Da%20Vinci%20Learning.png",Da Vinci Learning
+http://cdn.iptv.monster/play/120/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Discovery Showcase HD" tvg-id="discovery-hd-showcase" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Discovery%20Showcase%20HD.png",Discovery Showcase HD
+http://cdn.iptv.monster/play/272/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Телепутешествия" tvg-id="teleputeshestvia" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BF%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D1%8F.png",Телепутешествия
+http://iptvlive.stream:80/p/573542/c/33/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw
+#EXTINF:-1 tvg-name="Усадьба ТВ" tvg-id="usadba" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%A3%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%D0%A2%D0%92.png",Усадьба ТВ
+http://iptvlive.stream:80/p/573542/c/110/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw
+#EXTINF:-1 tvg-name="Fine Living" tvg-id="fine-living" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Fine%20Living.png",Fine Living
+http://iptvlive.stream:80/p/570039/c/52/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
+#EXTINF:-1 tvg-name="Большая Азия" tvg-id="bolshaya-azia" group-title="Pažintiniai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%90%D0%B7%D0%B8%D1%8F.png",Большая Азия
+http://iptvlive.stream:80/p/685473/c/169/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw
+#EXTINF:-1 tvg-name="TV3 Sport" tvg-id="tvplay-sports" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%20Sport.png",TV3 Sport
+https://cdn7.tvplayhome.lt/live/eds/ViasatSportBaltics_HD/HLS_encr/ViasatSportBaltics_HD-mp4a_96000_lit=11-avc1_5000000=16.m3u8
+#EXTINF:-1 tvg-name="TV3 Sport 2" tvg-id="tvplay-sports-plus" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%20Sport%202.png",TV3 Sport 2
+https://cdn7.tvplayhome.lt/live/eds/TVPlaySportPlusHD/HLS_encr/TVPlaySportPlusHD-mp4a_96000_lit=3-avc1_5000000=12.m3u8
+#EXTINF:-1 tvg-name="Sport 1" tvg-id="Sport1" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Sport%201.png",Sport 1
+http://84.32.13.62:8080/sport1/index.m3u8
+#EXTINF:-1 tvg-name="Viasat Sport" tvg-id="viasat-sport" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Viasat%20Sport.png",Viasat Sport
+http://cdn.iptv.monster/play/77/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Eurosport 1" tvg-id="eurosport1" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Eurosport%201.png",Eurosport 1
+http://cdn.iptv.monster/play/15/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Eurosport 2" tvg-id="eurosport2" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Eurosport2.png",Eurosport 2
+http://cdn.iptv.monster/play/43/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Extreme Sports" tvg-id="extreme-sports" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Extreme%20Sports.png",Extreme Sports
+http://cdn.iptv.monster/play/53/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="NBA TV" tvg-id="nba-tv" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/NBA%20TV%20HD.png",NBA TV
+http://cdn.iptv.monster/play/9984/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Матч ТВ" tvg-id="match-tv" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9C%D0%B0%D1%82%D1%87%20%D0%A2%D0%92%20HD.png",Матч ТВ
+http://cdn.iptv.monster/play/5/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Матч! Арена" tvg-id="match-arena" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%90%D1%80%D0%B5%D0%BD%D0%B0%20HD.png",Матч! Арена
+http://cdn.iptv.monster/play/136/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Матч! Игра" tvg-id="match-igra" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%98%D0%B3%D1%80%D0%B0%20HD.png",Матч! Игра
+http://cdn.iptv.monster/play/153/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 1" tvg-id="match-football1" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%201%20HD.png",Матч! Футбол 1
+http://cdn.iptv.monster/play/54/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 2" tvg-id="match-football2" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%202%20HD.png",Матч! Футбол 2
+http://cdn.iptv.monster/play/271/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 3" tvg-id="match-football3" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%203%20HD.png",Матч! Футбол 3
+http://cdn.iptv.monster/play/329/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Матч! премьер" tvg-id="match-premier" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%BF%D1%80%D0%B5%D0%BC%D1%8C%D0%B5%D1%80%20HD.png",Матч! премьер
+http://cdn.iptv.monster/play/37/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="МАТЧ! Страна" tvg-id="match-nash-sport" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9C%D0%90%D0%A2%D0%A7!%20%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B0.png",МАТЧ! Страна
+http://iptvlive.stream:80/p/748479/c/119/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw
+#EXTINF:-1 tvg-name="BT Sport 1" tvg-id="bt-sport1" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/BT%20Sport%201%20HD.png",BT Sport 1
+http://cdn.iptv.monster/play/922/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="BT Sport 2" tvg-id="bt-sport1" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/BT%20Sport%202%20HD.png",BT Sport 2
+http://cdn.iptv.monster/play/923/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 1 HD" tvg-id="setanta-sports" group-title="Sportas" tvg-logo="https://www.home3.lt/wp-content/uploads/2018/09/SetantaSports1_color.png",Setanta Sports 1 HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSetantaHD&login=taras777&key=3pp54ZC
+#EXTINF:-1 tvg-name="Setanta Sports 2 HD" tvg-id="setanta-sports-plus" group-title="Sportas" tvg-logo="http://crushgame.ru/channels_logos/sports/Setanta%20Sports%202.png",Setanta Sports 2 HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSetantaEurasiaHD&login=taras777&key=3pp54ZC
+#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-id="sky-sport-hd1" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Sky%20Sports%20Main%20Event%20HD.png",Sky Sports Main Event
+http://iptvlive.stream:80/p/781997/c/107/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Cricket" tvg-id="sky-sport-hd2" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Sky%20Sports%20Cricket%20HD.png",Sky Sports Cricket
+http://iptvlive.stream:80/p/781997/c/106/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Premier League" tvg-id="sky-sport-hd5" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Sky%20Sports%20Premier%20League%20HD.png",Sky Sports Premier League
+http://iptvlive.stream:80/p/781997/c/108/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
+#EXTINF:-1 tvg-name="Sky Sports F1" tvg-id="sky-sports-f1" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Sky%20Sports%20F1%20HD.png",Sky Sports F1
+http://iptvlive.stream:80/p/781997/c/103/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
+#EXTINF:-1 tvg-name="Bein Sport HD 1 AR" tvg-id="bein-sport-1" group-title="Sportas" tvg-logo="https://apps.beinsports.com/dev/au/images/1.png",Bein Sport HD 1 AR
+http://cdn.iptv.monster/play/1101/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Bein Sport HD 2 AR" tvg-id="bein-sport-2" group-title="Sportas" tvg-logo="https://apps.beinsports.com/dev/au/images/2.png",Bein Sport HD 2 AR
+http://cdn.iptv.monster/play/1102/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Bein Sport HD 3 AR" tvg-id="bein-sport-3" group-title="Sportas" tvg-logo="https://apps.beinsports.com/dev/au/images/3.png",Bein Sport HD 3 AR
+http://cdn.iptv.monster/play/1103/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Bein Sport HD 4 AR" tvg-id="bein-sport-4" group-title="Sportas" tvg-logo="https://www.satlogo.com/hires/bb/be_in_mena_sports_04_hd.png",Bein Sport HD 4 AR
+http://cdn.iptv.monster/play/1104/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Bein Sport HD 5 AR" tvg-id="bein-sport-5" group-title="Sportas" tvg-logo="https://www.satlogo.com/hires/bb/be_in_mena_sports_05_hd.png",Bein Sport HD 5 AR
+http://cdn.iptv.monster/play/1105/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Bein Sport HD 6 AR" tvg-id="bein-sport-6" group-title="Sportas" tvg-logo="https://www.satlogo.com/hires/bb/be_in_mena_sports_06_hd.png",Bein Sport HD 6 AR
+http://cdn.iptv.monster/play/1106/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Bein Sport HD 9 AR" tvg-id="bein-sport-9" group-title="Sportas" tvg-logo="https://i.ya-webdesign.com/images/bein-sports-logo-png-5.png",Bein Sport HD 9 AR
+http://cdn.iptv.monster/play/1109/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Bein Sport HD 10 AR" tvg-id="bein-sport-10" group-title="Sportas" tvg-logo="https://www.satlogo.com/hires/bb/be_in_mena_sports_10_hd.png",Bein Sport HD 10 AR
+http://cdn.iptv.monster/play/1110/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Bein Sport HD 12 AR" tvg-id="bein-sport-12" group-title="Sportas" tvg-logo="https://www.satlogo.com/hires/bb/be_in_mena_sports_12_hd.png",Bein Sport HD 12 AR
+http://cdn.iptv.monster/play/1112/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Bein Sport HD 13 AR" tvg-id="bein-sport-13" group-title="Sportas" tvg-logo="https://www.satlogo.com/hires/bb/be_in_mena_sports_13_hd.png",Bein Sport HD 13 AR
+http://cdn.iptv.monster/play/1113/4BBA04E10F1CBF4/video.m3u8
 #EXTINF:-1 tvg-name="TV3+ Latvia" tvg-id="3-plus-latvia" group-title="Pramoginiai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%2B%20Latvia.png",TV3+ Latvia
-http://iptvlive.stream:80/p/700940/c/78/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Sony Turbo Baltic" tvg-id="sony-turbo-baltic" group-title="Pramoginiai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Sony%20Turbo%20Baltic.png",Sony Turbo Baltic
-http://iptvlive.stream:80/p/641003/c/16/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://cdn9.tvplayhome.lt/live/eds/3plus_LV_SD/HLS_encr/3plus_LV_SD-mp4a_96000_rus=9-avc1_2200000=13.m3u8
+#EXTINF:-1 tvg-name="SmartZone HD" tvg-id="smartzone" group-title="Pramoginiai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/SmartZone%20HD.png",SmartZone HD
+http://iptvlive.stream:80/p/641003/c/24/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
+#EXTINF:-1 tvg-name="Sony Turbo Baltic" tvg-id="Sony Turbo Baltic" group-title="Pramoginiai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Sony%20Turbo%20Baltic.png",Sony Turbo Baltic
+http://iptvlive.stream:80/p/641003/c/16/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
 #EXTINF:-1 tvg-name="Sony Channel Lithuania" tvg-id="Sony Channel" group-title="Pramoginiai" tvg-logo="Logo N/A",Sony Channel Lithuania
-http://iptvlive.stream:80/p/641003/c/64/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/641003/c/64/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
 #EXTINF:-1 tvg-name="ТНТ" tvg-id="tnt" group-title="Pramoginiai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%A2%D0%9D%D0%A2.png",ТНТ
-http://iptvlive.stream:80/p/757349/c/18/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/757349/c/18/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
 #EXTINF:-1 tvg-name="Paramount Comedy" tvg-id="paramount-comedy" group-title="Pramoginiai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Paramount%20Comedy.png",Paramount Comedy
-http://iptvlive.stream:80/p/550713/c/124/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+http://cdn.iptv.monster/play/181/4BBA04E10F1CBF4/video.m3u8
 #EXTINF:-1 tvg-name="Paramount Comedy HD" tvg-id="paramount-comedy" group-title="Pramoginiai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Paramount%20Comedy%20HD.png",Paramount Comedy HD
-http://iptvlive.stream:80/p/736229/c/144/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+http://cdn.iptv.monster/play/382/4BBA04E10F1CBF4/video.m3u8
 #EXTINF:-1 tvg-name="СТС Love" tvg-id="sts-love" group-title="Pramoginiai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%A1%D0%A2%D0%A1%20Love.png",СТС Love
-http://iptvlive.stream:80/p/561921/c/203/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+http://iptvlive.stream:80/p/561921/c/203/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw
 #EXTINF:-1 tvg-name="НТВ Стиль" tvg-id="ntv-style" group-title="Pramoginiai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9D%D0%A2%D0%92%20%D0%A1%D1%82%D0%B8%D0%BB%D1%8C.png",НТВ Стиль
-http://iptvlive.stream:80/p/119409/c/270/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+http://iptvlive.stream:80/p/119409/c/270/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw
 #EXTINF:-1 tvg-name="Супер" tvg-id="super" group-title="Pramoginiai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%A1%D1%83%D0%BF%D0%B5%D1%80.png",Супер
-http://iptvlive.stream:80/p/607338/c/12/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/607338/c/12/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
 #EXTINF:-1 tvg-name="Сарафан" tvg-id="sarafan" group-title="Pramoginiai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%A1%D0%B0%D1%80%D0%B0%D1%84%D0%B0%D0%BD.png",Сарафан
-http://iptvlive.stream:80/p/596559/c/127/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/596559/c/127/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
 #EXTINF:-1 tvg-name="Кухня ТВ" tvg-id="kuxnia-tv" group-title="Pramoginiai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D1%83%D1%85%D0%BD%D1%8F%20%D0%A2%D0%92.png",Кухня ТВ
-http://iptvlive.stream:80/p/607338/c/26/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/607338/c/26/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
 #EXTINF:-1 tvg-name="Еда" tvg-id="eda" group-title="Pramoginiai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%95%D0%B4%D0%B0.png",Еда
-http://iptvlive.stream:80/p/604318/c/38/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/604318/c/38/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
 #EXTINF:-1 tvg-name="Еда HD" tvg-id="eda-hd" group-title="Pramoginiai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%95%D0%B4%D0%B0%20HD.png",Еда HD
-http://iptvlive.stream:80/p/605155/c/31/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/605155/c/31/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
 #EXTINF:-1 tvg-name="ТелеКафе" tvg-id="telekafe" group-title="Pramoginiai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%A2%D0%B5%D0%BB%D0%B5%D0%9A%D0%B0%D1%84%D0%B5.png",ТелеКафе
-http://iptvlive.stream:80/p/594990/c/5/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/594990/c/5/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
 #EXTINF:-1 tvg-name="HD Media" tvg-id="EPG N/A" group-title="Pramoginiai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/HD%20Media.png",HD Media
-http://iptvlive.stream:80/p/602876/c/21/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/602876/c/21/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
 #EXTINF:-1 tvg-name="VH1 European" tvg-id="vh1-european" group-title="Muzika" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/VH1%20European.png",VH1 European
-http://iptvlive.stream:80/p/665643/c/62/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://cdn.iptv.monster/play/278/4BBA04E10F1CBF4/video.m3u8
 #EXTINF:-1 tvg-name="VH1 Classic" tvg-id="vh1-classic" group-title="Muzika" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/VH1%20Classic.png",VH1 Classic
-http://iptvlive.stream:80/p/750350/c/36/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+http://cdn.iptv.monster/play/51/4BBA04E10F1CBF4/video.m3u8
 #EXTINF:-1 tvg-name="MTV" tvg-id="MTV" group-title="Muzika" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/MTV.png",MTV
-http://iptvlive.stream:80/p/750350/c/35/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+http://iptvlive.stream:80/p/800800/c/126/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw
 #EXTINF:-1 tvg-name="MTV Europe" tvg-id="mtv-europe" group-title="Muzika" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/MTV%20Europe.png",MTV Europe
-http://iptvlive.stream:80/p/456334/c/102/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/780456/c/66/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw
 #EXTINF:-1 tvg-name="MTV Hits" tvg-id="mtv-hits" group-title="Muzika" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/MTV%20Hits.png",MTV Hits
-http://iptvlive.stream:80/p/728260/c/89/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://cdn.iptv.monster/play/238/4BBA04E10F1CBF4/video.m3u8
 #EXTINF:-1 tvg-name="MTV Live HD" tvg-id="mtv-live-hd" group-title="Muzika" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/MTV%20Live%20HD.png",MTV Live HD
-http://iptvlive.stream:80/p/685473/c/92/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+http://cdn.iptv.monster/play/144/4BBA04E10F1CBF4/video.m3u8
 #EXTINF:-1 tvg-name="MTV Dance" tvg-id="mtv-dance" group-title="Muzika" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/MTV%20Dance.png",MTV Dance
-http://iptvlive.stream:80/p/748121/c/160/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://cdn.iptv.monster/play/46/4BBA04E10F1CBF4/video.m3u8
 #EXTINF:-1 tvg-name="MTV Rocks" tvg-id="mtv-rocks" group-title="Muzika" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/MTV%20Rocks.png",MTV Rocks
-http://iptvlive.stream:80/p/759520/c/85/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://cdn.iptv.monster/play/239/4BBA04E10F1CBF4/video.m3u8
 #EXTINF:-1 tvg-name="MTV Россия" tvg-id="mtv-russia" group-title="Muzika" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/MTV%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F.png",MTV Россия
-http://iptvlive.stream:80/p/683813/c/88/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://cdn.iptv.monster/play/277/4BBA04E10F1CBF4/video.m3u8
 #EXTINF:-1 tvg-name="Music Box UA" tvg-id="musicbox-ua-hd" group-title="Muzika" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Music%20Box%20Ua.png",Music Box UA
-http://iptvlive.stream:80/p/570039/c/2/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/570039/c/2/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
 #EXTINF:-1 tvg-name="RU TV" tvg-id="ru-tv" group-title="Muzika" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Ru%20Tv.png",RU TV
-http://iptvlive.stream:80/p/748479/c/36/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+http://iptvlive.stream:80/p/748479/c/36/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw
 #EXTINF:-1 tvg-name="Music Box RU" tvg-id="musicbox" group-title="Muzika" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Music%20Box%20Ru.png",Music Box RU
-http://iptvlive.stream:80/p/480220/c/72/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+http://cdn.iptv.monster/play/230/4BBA04E10F1CBF4/video.m3u8
 #EXTINF:-1 tvg-name="1 HD" tvg-id="musicbox-ua-hd" group-title="Muzika" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/1%20HD.png",1 HD
-http://iptvlive.stream:80/p/743699/c/34/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+http://iptvlive.stream:80/p/743699/c/34/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw
 #EXTINF:-1 tvg-name="Europa Plus TV" tvg-id="musicbox-ua-hd" group-title="Muzika" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Europa%20Plus%20TV.png",Europa Plus TV
-http://iptvlive.stream:80/p/748479/c/84/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+http://iptvlive.stream:80/p/748479/c/84/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw
 #EXTINF:-1 tvg-name="Bridge HD" tvg-id="musicbox-ua-hd" group-title="Muzika" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Bridge%20HD.png",Bridge HD
-http://iptvlive.stream:80/p/119409/c/112/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+http://iptvlive.stream:80/p/119409/c/112/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw
 #EXTINF:-1 tvg-name="Музыка Первого" tvg-id="muzyka-pervogo" group-title="Muzika" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B3%D0%BE.png",Музыка Первого
-http://iptvlive.stream:80/p/683813/c/86/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/683813/c/86/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
 #EXTINF:-1 tvg-name="Муз ТВ" tvg-id="muztv" group-title="Muzika" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9C%D1%83%D0%B7%20%D0%A2%D0%92.png",Муз ТВ
-http://iptvlive.stream:80/p/748479/c/5/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+http://iptvlive.stream:80/p/748479/c/5/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw
 #EXTINF:-1 tvg-name="BRIDGE TV CLASSIC" tvg-id="bridge-tv-classic" group-title="Muzika" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Bridge%20TV%20Classic.png",BRIDGE TV CLASSIC
-http://iptvlive.stream:80/p/683813/c/83/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/683813/c/83/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
 #EXTINF:-1 tvg-name="Bridge TV Dance" tvg-id="bridge-tv-dance" group-title="Muzika" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Bridge%20TV%20Dance.png",Bridge TV Dance
-http://iptvlive.stream:80/p/748121/c/140/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/748121/c/140/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
 #EXTINF:-1 tvg-name="Bridge TV" tvg-id="bridge-tv" group-title="Muzika" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Bridge%20TV.png",Bridge TV
-http://iptvlive.stream:80/p/748479/c/118/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+http://iptvlive.stream:80/p/800800/c/83/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw
 #EXTINF:-1 tvg-name="MCM Top" tvg-id="mcm-top" group-title="Muzika" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/MCM%20Top.png",MCM Top
-http://iptvlive.stream:80/p/570039/c/173/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/792189/c/25/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw
 #EXTINF:-1 tvg-name="MCM Top HD" tvg-id="mcm-top" group-title="Muzika" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/MCM%20Top%20HD.png",MCM Top HD
-http://iptvlive.stream:80/p/617088/c/13/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/659794/c/8/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
 #EXTINF:-1 tvg-name="М1" tvg-id="m1-ua" group-title="Muzika" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9C1.png",М1
-http://iptvlive.stream:80/p/748121/c/266/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/748121/c/266/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
 #EXTINF:-1 tvg-name="М2" tvg-id="m2-ua" group-title="Muzika" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/M2.png",М2
-http://iptvlive.stream:80/p/701429/c/55/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Pingviniukas" tvg-id="EPG N/A" group-title="Vaikams" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Pingviniukas.png",Pingviniukas
-http://iptvlive.stream:80/p/641003/c/38/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Kidzone" tvg-id="kidzone" group-title="Vaikams" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Kidzone.png",Kidzone
-http://iptvlive.stream:80/p/591779/c/126/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Disney Channel" tvg-id="disney-channel-se" group-title="Vaikams" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Disney%20Channel.png",Disney Channel
-http://iptvlive.stream:80/p/591779/c/143/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Disney Junior" tvg-id="disney-jr" group-title="Vaikams" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Disney%20Junior.png",Disney Junior
-http://iptvlive.stream:80/p/591779/c/145/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Disney XD" tvg-id="disney-xd" group-title="Vaikams" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Disney%20Xd%20.png",Disney XD
-http://iptvlive.stream:80/p/591779/c/144/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Duck TV" tvg-id="ducktv" group-title="Vaikams" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Duck%20TV.png",Duck TV
-http://iptvlive.stream:80/p/591779/c/66/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="JimJam" tvg-id="EPG N/A" group-title="Vaikams" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Jimjam.png",JimJam
-http://iptvlive.stream:80/p/591779/c/194/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Karusel" tvg-id="karusel" group-title="Vaikams" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Karusel.png",Karusel
-http://iptvlive.stream:80/p/591779/c/47/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="LoLo LT" tvg-id="lolo-tv-lt" group-title="Vaikams" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Lolo%20LT.png",LoLo LT
-http://iptvlive.stream:80/p/591779/c/375/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Multimania" tvg-id="multimania" group-title="Vaikams" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Multimania%20.png",Multimania
-http://iptvlive.stream:80/p/591779/c/40/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Nick Jr" tvg-id="nick-jr" group-title="Vaikams" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Nick%20Jr..png",Nick Jr
-http://iptvlive.stream:80/p/591779/c/141/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="NickToons" tvg-id="nicktoons" group-title="Vaikams" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Nicktoons%20.png",NickToons
-http://iptvlive.stream:80/p/591779/c/142/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Nickelodeon" tvg-id="nickelodeon-ru" group-title="Vaikams" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Nickelodeon.png",Nickelodeon
-http://iptvlive.stream:80/p/759520/c/95/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="LRT Televizija HD" tvg-id="lrt-tv" group-title="Lietuviška TV HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Televizija%20HD.png",LRT Televizija HD
-http://iptvlive.stream:80/p/728260/c/153/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="LRT Plius HD" tvg-id="lrt-kultura" group-title="Lietuviška TV HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Plius%20HD.png",LRT Plius HD
-http://iptvlive.stream:80/p/753744/c/75/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="TV3 HD" tvg-id="tv3-lt" group-title="Lietuviška TV HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%20HD.png",TV3 HD
-http://iptvlive.stream:80/p/753744/c/10/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="LNK HD" tvg-id="lnk" group-title="Lietuviška TV HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LNK%20HD.png",LNK HD
-http://iptvlive.stream:80/s/9703/c/1741/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="TV6 HD" tvg-id="tv6-lt" group-title="Lietuviška TV HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV6%20HD.png",TV6 HD
-http://iptvlive.stream:80/p/728260/c/20/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="TV1 HD" tvg-id="tv1-lt" group-title="Lietuviška TV HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV1%20HD.png",TV1 HD
-http://iptvlive.stream:80/s/9703/c/1379/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="BTV HD" tvg-id="btv" group-title="Lietuviška TV HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/BTV%20HD.png",BTV HD
-http://iptvlive.stream:80/p/728260/c/18/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Info TV HD" tvg-id="info-tv" group-title="Lietuviška TV HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Info%20TV%20HD.png",Info TV HD
-http://iptvlive.stream:80/p/641003/c/46/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="TV8 HD" tvg-id="tv8-lt" group-title="Lietuviška TV HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV8%20HD.png",TV8 HD
-http://iptvlive.stream:80/p/728260/c/21/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Lietuvos Rytas TV HD" tvg-id="lietuvos-ryto-televizija" group-title="Lietuviška TV HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Lietuvos%20Rytas%20TV%20HD.png",Lietuvos Rytas TV HD
-http://iptvlive.stream:80/p/753744/c/17/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Init TV HD" tvg-id="init-tv" group-title="Lietuviška TV HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Init%20TV.png",Init TV HD
-http://iptvlive.stream:80/p/637638/c/31/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Viasat Explore HD" tvg-id="viasat-explore" group-title="Pažintiniai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Viasat%20Explore%20HD.png",Viasat Explore HD
-http://iptvlive.stream:80/p/641003/c/26/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Viasat History HD" tvg-id="viasat-history" group-title="Pažintiniai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Viasat%20History%20HD.png",Viasat History HD
-http://iptvlive.stream:80/p/641003/c/27/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Discovery Channel HD" tvg-id="discovery-channel" group-title="Pažintiniai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Discovery%20Channel%20HD.png",Discovery Channel HD
-http://iptvlive.stream:80/p/762479/c/11/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Discovery Science HD" tvg-id="discovery-science" group-title="Pažintiniai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Discovery%20Science%20HD.png",Discovery Science HD
-http://iptvlive.stream:80/p/759520/c/45/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Discovery Showcase HD" tvg-id="discovery-hd-showcase" group-title="Pažintiniai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Discovery%20Showcase%20HD.png",Discovery Showcase HD
-http://iptvlive.stream:80/p/728260/c/36/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Discovery TLC HD" tvg-id="tlc" group-title="Pažintiniai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Discovery%20TLC%20HD.png",Discovery TLC HD
-http://iptvlive.stream:80/p/578976/c/114/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="National Geographic HD" tvg-id="national-geographic" group-title="Pažintiniai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/National%20Geographic%20HD.png",National Geographic HD
-http://iptvlive.stream:80/p/561921/c/44/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Travel Channel HD" tvg-id="travel-channel" group-title="Pažintiniai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Travel%20Channel%20HD.png",Travel Channel HD
-http://iptvlive.stream:80/p/748121/c/163/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Travel + Adventure HD" tvg-id="travel-adventure" group-title="Pažintiniai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Travel%2B%20Adventure%20HD.png",Travel + Adventure HD
-http://iptvlive.stream:80/p/578976/c/121/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Viasat Nature History HD" tvg-id="viasat-nature-history-hd" group-title="Pažintiniai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Viasat%20Nature%20History%20HD.png",Viasat Nature History HD
-http://iptvlive.stream:80/p/592755/c/229/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="History Channel HD" tvg-id="history" group-title="Pažintiniai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/History%20Channel%20HD.png",History Channel HD
-http://iptvlive.stream:80/p/762479/c/22/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="History 2 HD" tvg-id="h2" group-title="Pažintiniai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/History%202%20HD.png",History 2 HD
-http://iptvlive.stream:80/p/579554/c/150/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="DocuBox HD" tvg-id="docubox-hd" group-title="Pažintiniai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Docubox%20HD.png",DocuBox HD
-http://iptvlive.stream:80/p/119409/c/16/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Fast&Fun Box HD" tvg-id="fastfunbox-hd" group-title="Pažintiniai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Fast%26Fun%20Box%20HD.png",Fast&Fun Box HD
-http://iptvlive.stream:80/p/548342/c/18/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Investigation Discovery" tvg-id="id-xtra-ru" group-title="Pažintiniai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Investigation%20Discovery.png",Investigation Discovery
-http://iptvlive.stream:80/p/584333/c/66/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Viasat Nature HD" tvg-id="viasat-nature" group-title="Pažintiniai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Viasat%20Nature%20HD.png",Viasat Nature HD
-http://iptvlive.stream:80/p/753744/c/35/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Animal Planet HD" tvg-id="animal-planet" group-title="Pažintiniai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Animal%20Planet%20HD.png",Animal Planet HD
-http://iptvlive.stream:80/p/578976/c/115/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Nat Geo Wild HD" tvg-id="nat-geo-wild" group-title="Pažintiniai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Nat%20Geo%20Wild%20HD.png",Nat Geo Wild HD
-http://iptvlive.stream:80/p/762479/c/28/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="В мире животных HD" tvg-id="v-mire-zhivotnyx-hd" group-title="Pažintiniai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%92%20%D0%BC%D0%B8%D1%80%D0%B5%20%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D1%85%20HD.png",В мире животных HD
-http://iptvlive.stream:80/p/573542/c/100/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="HD Life" tvg-id="hd-life" group-title="Pažintiniai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/HD%20Life.png",HD Life
-http://iptvlive.stream:80/p/573542/c/265/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Планета HD" tvg-id="planeta-hd" group-title="Pažintiniai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0%20HD.png",Планета HD
-http://iptvlive.stream:80/p/739833/c/173/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="RTG HD" tvg-id="rtg" group-title="Pažintiniai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/RTG%20Hd.png",RTG HD
-http://iptvlive.stream:80/p/578976/c/122/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="TLC HD" tvg-id="tlc" group-title="Pažintiniai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TLC%20HD.png",TLC HD
-http://iptvlive.stream:80/p/578976/c/114/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Первый" tvg-id="pervy" group-title="Rusiška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9.png",Первый
-http://iptvlive.stream:80/p/521347/c/7/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Первый HD" tvg-id="pervy" group-title="Rusiška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20HD.png",Первый HD
-http://iptvlive.stream:80/p/736229/c/171/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Россия 1" tvg-id="rossia1" group-title="Rusiška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%201.png",Россия 1
-http://iptvlive.stream:80/p/620107/c/2/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Россия 1 HD" tvg-id="rossia1" group-title="Rusiška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%201%20HD.png",Россия 1 HD
-http://iptvlive.stream:80/p/748121/c/153/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Россия 24" tvg-id="rossia-24" group-title="Rusiška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2024.png",Россия 24
-http://iptvlive.stream:80/p/613502/c/4/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Мир" tvg-id="mir" group-title="Rusiška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9C%D0%B8%D1%80.png",Мир
-http://iptvlive.stream:80/p/757349/c/17/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Мир HD" tvg-id="mir" group-title="Rusiška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9C%D0%B8%D1%80%20HD.png",Мир HD
-http://iptvlive.stream:80/p/685737/c/148/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Мир 24" tvg-id="mir-24" group-title="Rusiška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9C%D0%B8%D1%80%2024.png",Мир 24
-http://iptvlive.stream:80/p/633865/c/156/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Мир 24 HD" tvg-id="mir-24" group-title="Rusiška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9C%D0%B8%D1%80%2024%20HD.png",Мир 24 HD
-http://iptvlive.stream:80/p/685737/c/148/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Мир Premium HD" tvg-id="mir-premium" group-title="Rusiška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9C%D0%B8%D1%80%20Premium%20HD.png",Мир Premium HD
-http://iptvlive.stream:80/p/748121/c/20/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="НТВ" tvg-id="ntv" group-title="Rusiška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9D%D0%A2%D0%92.png",НТВ
-http://iptvlive.stream:80/p/767486/c/4/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="НТВ HD" tvg-id="ntv" group-title="Rusiška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9D%D0%A2%D0%92%20HD.png",НТВ HD
-http://iptvlive.stream:80/p/748121/c/151/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="ТВ3" tvg-id="tv3-ru" group-title="Rusiška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%A2%D0%923.png",ТВ3
-http://iptvlive.stream:80/p/739833/c/74/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="ТВЦ" tvg-id="tvcentr" group-title="Rusiška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%A2%D0%92%D0%A6.png",ТВЦ
-http://iptvlive.stream:80/p/757349/c/10/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="СТС" tvg-id="sts" group-title="Rusiška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%A1%D0%A2%D0%A1.png",СТС
-http://iptvlive.stream:80/p/618688/c/18/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="ТНТ" tvg-id="tnt" group-title="Rusiška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%A2%D0%9D%D0%A2.png",ТНТ
-http://iptvlive.stream:80/p/633865/c/12/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="ТНТ4" tvg-id="tnt4" group-title="Rusiška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%A2%D0%9D%D0%A24.png",ТНТ4
-http://iptvlive.stream:80/p/633865/c/13/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Рен ТВ" tvg-id="rentv" group-title="Rusiška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%A0%D0%B5%D0%BD%20%D0%A2%D0%92.png",Рен ТВ
-http://iptvlive.stream:80/p/618688/c/109/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Пятый канал" tvg-id="5kanal-ru" group-title="Rusiška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9F%D1%8F%D1%82%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB.png",Пятый канал
-http://iptvlive.stream:80/p/602876/c/216/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="8 канал" tvg-id="8kanal-ru" group-title="Rusiška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/8%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB.png",8 канал
-http://iptvlive.stream:80/p/602876/c/58/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Домашний" tvg-id="domashny" group-title="Rusiška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B9.png",Домашний
-http://iptvlive.stream:80/p/618417/c/16/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Пятница" tvg-id="piatnica" group-title="Rusiška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0.png",Пятница
-http://iptvlive.stream:80/p/633865/c/51/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Москва 24" tvg-id="moskva-24" group-title="Rusiška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2024.png",Москва 24
-http://iptvlive.stream:80/p/602876/c/92/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Калейдоскоп ТВ" tvg-id="kaleydoskop-tv" group-title="Rusiška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D0%B0%D0%BB%D0%B5%D0%B9%D0%B4%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%20%D0%A2%D0%92.png",Калейдоскоп ТВ
-http://iptvlive.stream:80/p/607338/c/46/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Че!" tvg-id="che" group-title="Rusiška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%A7%D0%B5!.png",Че!
-http://iptvlive.stream:80/p/602876/c/67/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Звезда" tvg-id="zvezda" group-title="Rusiška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0.png",Звезда
-http://iptvlive.stream:80/p/633865/c/50/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="ОТР" tvg-id="otr" group-title="Rusiška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9E%D0%A2%D0%A0.png",ОТР
-http://iptvlive.stream:80/p/602876/c/164/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Твой Дом HD" tvg-id="tvoy-dom" group-title="Rusiška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%A2%D0%B2%D0%BE%D0%B9%20%D0%94%D0%BE%D0%BC%20HD.png",Твой Дом HD
-http://iptvlive.stream:80/p/589554/c/114/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Мужской" tvg-id="muzhskoy" group-title="Rusiška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%BE%D0%B9.png",Мужской
-http://iptvlive.stream:80/p/602876/c/191/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="78" tvg-id="78kanal" group-title="Rusiška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/78.png",78
-http://iptvlive.stream:80/p/602876/c/5/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="47 канал" tvg-id="EPG N/A" group-title="Rusiška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/47%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB.png",47 канал
-http://iptvlive.stream:80/p/602876/c/87/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Ocean TV" tvg-id="ocean-tv" group-title="Rusiška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Ocean%20TV.png",Ocean TV
-http://iptvlive.stream:80/p/602876/c/154/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/701429/c/55/u/177805/rq3Hzkpq1KPT5tym73uA1Jsq80YyKw.m3u8
+#EXTINF:-1 tvg-name="LRT Televizija" tvg-id="lrt-tv" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Televizija.png",LRT Televizija
+http://cdn9.tvplayhome.lt/live/eds/LRT/HLS_encr/LRT-mp4a_96000_lit=1-avc1_2200000=5.m3u8
+#EXTINF:-1 tvg-name="LRT Plius" tvg-id="lrt-kultura" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Plius%20HD.png",LRT Plius
+https://cdn2.tvplayhome.lt/live/eds/LRTKultura/HLS_encr/LRTKultura-mp4a_96000_lit=8-avc1_2200000=9.m3u8
+#EXTINF:-1 tvg-name="LRT Lituanica" tvg-id="lrt-lituanica" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Lituanica.png",LRT Lituanica
+http://cdn9.tvplayhome.lt/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania-mp4a_96000_lit=15-avc1_2200000=13.m3u8
+#EXTINF:-1 tvg-name="TV3" tvg-id="tv3-lt" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3.png",TV3
+https://cdn9.tvplayhome.lt/live/eds/TV3_LT_SD/HLS_encr/TV3_LT_SD-mp4a_96000_lit=9-avc1_2200000=13.m3u8
+#EXTINF:-1 tvg-name="TV3 HD" tvg-id="tv3-lt" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%20HD.png",TV3 HD
+http://cdn9.tvplayhome.lt/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD-mp4a_96000_lit=9-avc1_5500000=13.m3u8
+#EXTINF:-1 tvg-name="LNK" tvg-id="lnk" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LNK.png",LNK
+https://cdn9.tvplayhome.lt/live/eds/LNK/HLS_encr/LNK-mp4a_96000_lit=24-avc1_2200000=25.m3u8
+#EXTINF:-1 tvg-name="TV6" tvg-id="tv6-lt" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV6.png",TV6
+http://cdn9.tvplayhome.lt/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD-mp4a_96000_lit=10-avc1_2200000=14.m3u8
+#EXTINF:-1 tvg-name="TV6 HD" tvg-id="tv6-lt" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV6%20HD.png",TV6 HD
+http://cdn2.tvplayhome.lt/live/eds/TV6_LT_HD/HLS_encr/TV6_LT_HD-mp4a_96000_lit=1-avc1_5000000=4.m3u8
+#EXTINF:-1 tvg-name="TV8" tvg-id="tv8-lt" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV8.png",TV8
+https://cdn9.tvplayhome.lt/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD-mp4a_96000_lit=9-avc1_2200000=13.m3u8
+#EXTINF:-1 tvg-name="Info TV" tvg-id="info-tv" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Info%20TV.png",Info TV
+http://cdn2.tvplayhome.lt/live/eds/InfoTV/HLS_encr/InfoTV-mp4a_96000_lit=9-avc1_2200000=12.m3u8
+#EXTINF:-1 tvg-name="Lietuvos rytas TV" tvg-id="lietuvos-ryto-televizija" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Lietuvos%20Rytas%20TV.png",Lietuvos rytas TV
+http://cdn2.tvplayhome.lt/live/eds/Lietuvos_Ryto_TV/HLS_encr/Lietuvos_Ryto_TV-mp4a_96000_lit=1-avc1_2200000=10.m3u8
+#EXTINF:-1 tvg-name="TV3+ Latvia" tvg-id="3-plus-latvia" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%2B%20Latvia.png",TV3+ Latvia
+http://cdn9.tvplayhome.lt/live/eds/3plus_LV_SD/HLS_encr/3plus_LV_SD-mp4a_96000_rus=9-avc1_2200000=13.m3u8
+#EXTINF:-1 tvg-name="TV3 Film HD" tvg-id="tv1000-premium" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%20Film%20HD.png",TV3 Film HD
+https://cdn9.tvplayhome.lt/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-mp4a_96000_lit=11-avc1_5000000=10.m3u8
+#EXTINF:-1 tvg-name="TV 1000" tvg-id="tv1000" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV%201000.png",TV 1000
+https://cdn9.tvplayhome.lt/live/eds/TV1000_SD/HLS_encr/TV1000_SD-mp4a_96000_rus=9-avc1_2200000=14.m3u8
+#EXTINF:-1 tvg-name="TV 1000 Action" tvg-id="tv1000-action" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV%201000%20Action.png",TV 1000 Action
+https://cdn9.tvplayhome.lt/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD-mp4a_96000_rus=5-avc1_2200000=21.m3u8
+#EXTINF:-1 tvg-name="Epic Drama HD" tvg-id="epik-drama" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Epic%20Drama%20HD.png",Epic Drama HD
+https://cdn9.tvplayhome.lt/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-mp4a_96000_lit=21-avc1_5000000=15.m3u8
+#EXTINF:-1 tvg-name="Fox" tvg-id="fox" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Fox.png",Fox
+http://cdn9.tvplayhome.lt/live/eds/FOX/HLS_encr/FOX-mp4a_96000_rus=1-avc1_2200000=5.m3u8
+#EXTINF:-1 tvg-name="Viasat Explore" tvg-id="viasat-explore" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Viasat%20Explore.png",Viasat Explore
+https://cdn9.tvplayhome.lt/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD-mp4a_96000_rus=15-avc1_2200000=17.m3u8
+#EXTINF:-1 tvg-name="Viasat Explore HD" tvg-id="viasat-explore" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Viasat%20Explore%20HD.png",Viasat Explore HD
+https://cdn9.tvplayhome.lt/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD-mp4a_96000_rus=2-avc1_5000000=6.m3u8
+#EXTINF:-1 tvg-name="Viasat History" tvg-id="viasat-history" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Viasat%20History.png",Viasat History
+http://cdn9.tvplayhome.lt/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD-mp4a_96000_rus=1-avc1_2200000=8.m3u8
+#EXTINF:-1 tvg-name="Viasat History HD" tvg-id="viasat-history" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Viasat%20History%20HD.png",Viasat History HD
+http://cdn9.tvplayhome.lt/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD-mp4a_96000_rus=1-avc1_5000000=7.m3u8
+#EXTINF:-1 tvg-name="Viasat Nature" tvg-id="viasat-nature" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Viasat%20Nature.png",Viasat Nature
+https://cdn9.tvplayhome.lt/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD-mp4a_96000_rus=16-avc1_2200000=24.m3u8
+#EXTINF:-1 tvg-name="National Geographic HD" tvg-id="national-geographic" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/National%20Geographic%20HD.png",National Geographic HD
+https://cdn9.tvplayhome.lt/live/eds/NatGeoHD/HLS_encr/NatGeoHD-mp4a_96000_rus=1-avc1_5000000=7.m3u8
+#EXTINF:-1 tvg-name="Sport 1" tvg-id="sport1-lt" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Sport%201.png",Sport 1
+https://cdn9.tvplayhome.lt/live/eds/Sport1/HLS_encr/Sport1-mp4a_96000_lit=8-avc1_2200000=11.m3u8
+#EXTINF:-1 tvg-name="TV3 Sport HD" tvg-id="tvplay-sports" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%20Sport%20HD.png",TV3 Sport HD
+https://cdn7.tvplayhome.lt/live/eds/ViasatSportBaltics_HD/HLS_encr/ViasatSportBaltics_HD-mp4a_96000_lit=11-avc1_5000000=16.m3u8
+#EXTINF:-1 tvg-name="TV3 Sport 2 HD" tvg-id="tvplay-sports-plus" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%20Sport%202%20HD.png",TV3 Sport 2 HD
+https://cdn7.tvplayhome.lt/live/eds/TVPlaySportPlusHD/HLS_encr/TVPlaySportPlusHD-mp4a_96000_lit=3-avc1_5000000=12.m3u8
+#EXTINF:-1 tvg-name="VH1" tvg-id="vh1-european" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/VH1%20European.png",VH1
+http://cdn9.tvplayhome.lt/live/eds/VH1/HLS_encr/VH1-mp4a_96000_eng=46-avc1_2200000=49.m3u8
+#EXTINF:-1 tvg-name="MTV Hits" tvg-id="mtv-hits" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/MTV%20Hits.png",MTV Hits
+http://cdn9.tvplayhome.lt/live/eds/MTV_Hits/HLS_encr/MTV_Hits-mp4a_96000_eng=20-avc1_2200000=21.m3u8
 #EXTINF:-1 tvg-name="Palangos tiltas" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g4.dcdn.lt/vd/i/24-7/headlines/palangos_tiltas_s.png",Palangos tiltas
 http://89.117.128.169:80/Palanga/palanga.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Palangos tiltas 2" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g4.dcdn.lt/vd/i/24-7/headlines/palangos_tiltas_s.png",Palangos tiltas 2
@@ -733,3 +557,39 @@ http://videos3.earthcam.com:1935/fecnetwork/5758.flv/playlist.m3u8
 http://videos3.earthcam.com:1935/fecnetwork/tokyo1.flv/playlist.m3u8
 #EXTINF:-1 tvg-name="Northern Mariana Islands - Saipan Beach Cam" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Northern Mariana Islands - Saipan Beach Cam
 http://videos3.earthcam.com/fecnetwork/10610.flv/playlist.m3u8
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Kino Beta" tvg-logo="logo N/A",Кино UHD
+http://188.35.9.26:16050/udp/238.0.16.1:69000
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Kino Beta" tvg-logo="logo N/A",Кино премиум HD
+http://188.35.9.11:2017
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Kino Beta" tvg-logo="logo N/A",Кинопоказ 2 HD
+http://autopilot.myowntv.org:80/content/35448/index.m3u8
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Kino Beta" tvg-logo="logo N/A",Кинопоказ 3 HD
+http://autopilot.myowntv.org:80/content/35525/index.m3u8
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Kino Beta" tvg-logo="logo N/A",Классика кино HD
+http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Kino Beta" tvg-logo="logo N/A",Комедийное HD
+http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
+#EXTINF:-1 tvg-name="Kinoshka 1" tvg-id="9990" group-title="Kino Beta" tvg-logo="https://static10.tgstat.ru/channels/_0/a1/a1326a3e069b617be48612dbf4c0cc2d.jpg",Kinoshka 1
+http://cdn.iptv.monster/play/9990/4BBA04E10F1CBF4/video.m3u8
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Kino Beta" tvg-logo="logo N/A",КИНОПАБ Хит
+https://or-be-01.mycdn.video/pub/hit/index.m3u8
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Kino Beta" tvg-logo="logo N/A",КИНОПАБ VHS
+https://or-be-01.mycdn.video/pub/vhs/index.m3u8
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Kino Beta" tvg-logo="logo N/A",КИНОПАБ UHD 4K
+https://or-be-01.mycdn.video/pub/4k/index.m3u8
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Kino Beta" tvg-logo="logo N/A",КИНОПАБ Комедия
+https://or-be-01.mycdn.video/pub/comedy/index.m3u8
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Kino Beta" tvg-logo="logo N/A",КИНОПАБ Ужасы
+https://or-be-01.mycdn.video/pub/horror/index.m3u8
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Kino Beta" tvg-logo="logo N/A",КИНОПАБ Фантастика
+https://or-be-01.mycdn.video/pub/scifi/index.m3u8
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Kino Beta" tvg-logo="logo N/A",КИНОПАБ Футурама
+https://or-be-01.mycdn.video/pub/futurama/index.m3u8
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Kino Beta" tvg-logo="logo N/A",КИНОПАБ Секретные материалы
+https://or-be-01.mycdn.video/pub/xfiles/index.m3u8
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Kino Beta" tvg-logo="logo N/A",КИНОПАБ Южный Парк
+https://or-be-01.mycdn.video/pub/southpark/index.m3u8
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Kino Beta" tvg-logo="logo N/A",КИНОПАБ Гриффины
+https://or-be-01.mycdn.video/pub/familyguy/index.m3u8
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Kino Beta" tvg-logo="logo N/A",КИНОПАБ Симпсоны
+https://or-be-01.mycdn.video/pub/simpsons/index.m3u8
